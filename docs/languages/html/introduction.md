@@ -46,7 +46,7 @@ As it turns out, HTML is a very friendly language and it is on good terms with a
 
 ### 3. Is HTML is a programming language?
 
-HTML is not a programming language well HTML controls the presentation, structure and layout of the data on a webpage, It just does not contains any functional programming logic. Manipulating data is not in it's nature, neither does it perform tasks like =,  event handling, taking input and displaying output, this is what make it different from a programming language.
+HTML is not a programming language well HTML controls the presentation, structure and layout of the data on a webpage, It just does not contains any functional programming logic. Manipulating data is not in it's nature, neither does it perform tasks like = event handling, taking input and displaying output, this is what make it different from a programming language.
 
 
 ## Start You Journey Now 
