@@ -6,6 +6,9 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
+import "@fontsource/josefin-sans";
+import "@fontsource/cascadia-code";
+
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
