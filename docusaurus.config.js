@@ -81,7 +81,7 @@ const config = {
           },
 
           {
-            href: 'https://github.com/Designatory',
+            href: 'https://github.com/Designatory/GeekyWeb',
             label: 'GitHub',
             position: 'right',
           },
