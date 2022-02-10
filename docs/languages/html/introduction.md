@@ -59,5 +59,6 @@ HTML is not a programming language well HTML controls the presentation, structur
     <h3>HTML Tutorials</h3>
     - <a href="/docs/html">Introduction to HTML</a> <br/>
     - <a href="/docs/html/html-editors">Introduction to HTML</a> <br/>
+    - <a href="/docs/html/html-boilerplate">HTML Boilerplate</a> <br/>
   </div>
 </details>
