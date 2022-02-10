@@ -1562,10 +1562,20 @@
   resolved "https://registry.npmjs.org/@fontsource/cascadia-code/-/cascadia-code-4.2.1.tgz"
   integrity sha512-Nb6RyI7dxe3jS7Ap0fl7/GQ9GksqDPNNEMZD+bvc+m5lCyVPvFtAYbXo9uojvLnIKhYCEFNGXlKCp2Vmn9Tx5Q==
 
+"@fontsource/fredoka-one@^4.5.1":
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/@fontsource/fredoka-one/-/fredoka-one-4.5.1.tgz#084d1c9db7310961969808d31ffaf7c3fa6f31b1"
+  integrity sha512-7po0Ok/gs69RdYbtx3yqW69yOEA8azHz9ylWC6zwdsg5uJUQcvOLqOPtyQjR2zGb156Qo3vy9ptYBrsbGMMFyg==
+
 "@fontsource/josefin-sans@^4.5.3":
   version "4.5.3"
   resolved "https://registry.yarnpkg.com/@fontsource/josefin-sans/-/josefin-sans-4.5.3.tgz#03fbc1351439d7d673d72694ad4220e793888d2c"
   integrity sha512-IWPzHFw3TefSN8hGCMSLvgYmJLX53r3yeqyii08Vjo/1aevc8lwxWjg1am8irq+eJYhFcXQM2ZV3FNx2/ctExg==
+
+"@fontsource/patrick-hand@^4.5.1":
+  version "4.5.1"
+  resolved "https://registry.yarnpkg.com/@fontsource/patrick-hand/-/patrick-hand-4.5.1.tgz#3bbb1825cd8d5d81aba4f17d7ed516a46a31df93"
+  integrity sha512-8RGDWpQrV1YrYkodIJmju916zVed9AEGspQTxFviwwOJGYGSaTV8Q9vvzuVWJ8+HEPrPA7qKUWMV0gMeYLq+6g==
 
 "@hapi/hoek@^9.0.0":
   version "9.2.1"

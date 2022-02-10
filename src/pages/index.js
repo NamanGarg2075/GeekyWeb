@@ -8,6 +8,8 @@ import './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
 import "@fontsource/josefin-sans";
 import "@fontsource/cascadia-code";
+import "@fontsource/fredoka-one";
+import "@fontsource/patrick-hand";
 
 
 function HomepageHeader() {

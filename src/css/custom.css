@@ -16,7 +16,7 @@
   --ifm-code-font-size: 95%;
 
   /* Styling Theme */
-  --ifm-heading-font-family: "Josefin Sans";
+  --ifm-heading-font-family: "Patrick Hand";
   --btn-color-course:#000000;
 }
 
@@ -54,7 +54,7 @@ html[data-theme='dark'] .docusaurus-highlight-code-line {
 }
 
 .navbar__title{
-  font-family: "Josefin Sans";
+  font-family: "Patrick Hand";
 }
 
 img{
