@@ -67,5 +67,5 @@ Now this is my new line
 
 :::info
 
-There are many more tags like this explore all of then now [Click Here](tags)
+There are many more tags like this explore all of then now [Click Here](html-tags)
 :::
