@@ -1,6 +1,6 @@
 ---
 title: HTML Boilerplate
-sidebar_position: 1
+sidebar_position: 3
 sidebar_label: HTML Boilerplate
 slug: /html/html-boilerplate
 ---
