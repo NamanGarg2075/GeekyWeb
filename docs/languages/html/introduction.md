@@ -13,14 +13,13 @@ HTML stands for hypertext markup language use to create webpages using markup la
 
 An HTML document consists of 2 important parts:
 - **Document Creation** (what user will see)
-- **Tags** (and how they see it) <br/> <br/>
-
+- [**Tags**](html/html-tags) (and how they see it)
 
 ##  Below Some Points are very basic but important
 
 - The `<html>` is considered to be the head of the family, It' from this tag that the browser recognizes it's an HTML Document
 
-- For every opening tag there is a closing tag like `</html>`
+- For every [opening tag](html/html-tags#opening-tags) there is a [closing tag](html/html-tags#closing-tags) like `</html>`
 
 - The tag `<html>` is followed by the `<head>` tag, this is special one, and the content written inside is not displayed on the webpage, It comprises of the title (of browser window) or any other instruction, which you want to provide to the web browser for example:
 
@@ -60,5 +59,6 @@ HTML is not a programming language well HTML controls the presentation, structur
     - <a href="/docs/html">Introduction to HTML</a> <br/>
     - <a href="/docs/html/html-editors">Introduction to HTML</a> <br/>
     - <a href="/docs/html/html-boilerplate">HTML Boilerplate</a> <br/>
+    - <a href="/docs/html/html-tags">HTML Tags</a> <br/>
   </div>
 </details>
