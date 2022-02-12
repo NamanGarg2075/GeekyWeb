@@ -26,6 +26,7 @@ const sidebars = {
       'languages/html/introduction',
       'languages/html/html_editors',
       'languages/html/html_boilerplate',
+      'languages/html/html_tags',
       ],
     },
   ],
