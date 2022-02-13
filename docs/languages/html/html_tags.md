@@ -13,11 +13,10 @@ import BrowserWindow from '@site/src/components/BrowserWindow'
 
 ## HTML Tags
 
-Tags plays an important role in web development, tags hold content to display their are specific tags for specific texts, like if you want to add paragraph then use `<p> </p>` tags for heading `<h1> </h1>` and many more...
-
+HTML Tags play an important role in web development, tags hold content to display there are specific tags for specific texts, like if you want to add paragraph then use `<p> </p>` tags for heading `<h1> </h1>` and many more...
 ## Closing Tags
 
-Closing tags are those tags which have [opening](#opening-tags) and closing tags both, like as we discuss above that if you have to add any paragraph you will add a `<p>` tags as opening and `</p>` as closing tag,
+Closing tags are those that have both [opening](#opening-tags) and closing tags. As previously discussed, if you need to add a paragraph, you will add `<p>` tag as the opening tag and `</p>` tag as the closing tag.
 
 ```html
 <p>
@@ -27,7 +26,7 @@ Closing tags are those tags which have [opening](#opening-tags) and closing tags
 
 ## Opening Tags
 
-Opening tags are those tags which have only opening tags no [closing tag](#closing-tags), actually they also have closing tag bt we don't need to type it like if we want to add a line break in our webpage we simply add `<br>` but we will not add `</br>` because this closing tags don't have any use, these kinds of tags are self closing tags as we can also just type it as `<br/>` which indicate both opening and closing tag as well.
+Opening tags are those tags which have only opening tags, no [closing tag](#closing-tags). Actually, they also have a closing tag but we don't need to type it, like if we want to add a line break to our webpage we simply add `<br>` but we will not add `</br>` because these closing tags don't have any use, these kinds of tags are self-closing tags as we can also just type them as `<br />` which indicate both opening and closing tag as well.
 
 ```html
 This is my text and now i have to break a line and continue to next line.
@@ -67,5 +66,6 @@ Now this is my new line
 
 :::info
 
-There are many more tags like this explore all of then now [Click Here](html-tags)
+There are many more tags like this. Explore all of them now [Click Here](html-tags)
+
 :::
