@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('../../static/img/features/easy-to-use-1.svg').default,
     description: (
       <>
-        GeekyWeb was designed from the ground up to be easy to use and learn different different programming languages.
+        GeekyWeb was designed from the ground up to be easy to use and learn different programming languages.
       </>
     ),
   },
@@ -17,7 +17,7 @@ const FeatureList = [
     Svg: require('../../static/img/features/well-organised-2.svg').default,
     description: (
       <>
-        You will well organized content on GeekyWeb so that you can learn anything from GeekyWeb in a very systematic way.
+        You will well organize content on GeekyWeb so that you can learn anything from GeekyWeb in a very systematic way.
       </>
     ),
   },
@@ -26,7 +26,7 @@ const FeatureList = [
     Svg: require('../../static/img/features/instant-search-3.svg').default,
     description: (
       <>
-        You can search anything it will show you most appropriate results within a couple of seconds you don't even have to wait.
+        You can search anything; it will show you the most appropriate results within a couple of seconds; you don't even have to wait.
       </>
     ),
   },
@@ -35,7 +35,7 @@ const FeatureList = [
     Svg: require('../../static/img/features/projects-making-4.svg').default,
     description: (
       <>
-        You are able to create different different projects by own and with the help of our guidance start any course and start learning.
+        You are able to create different projects on your own and, with the help of our guidance, start any course and start learning.
       </>
     ),
   },
@@ -44,7 +44,7 @@ const FeatureList = [
     Svg: require('../../static/img/features/different-different-languages-5.svg').default,
     description: (
       <>
-        Our docs are available in different different languages which allow you to learn in any language in future we will try to add more languages.
+        Our docs are available in different languages, which allow you to learn in any language; in the future, we will try to add more languages.
       </>
     ),
   },
@@ -53,7 +53,7 @@ const FeatureList = [
     Svg: require('../../static/img/features/contact-us-6.svg').default,
     description: (
       <>
-        You can also contact us if are facing any errors regarding practicing and regarding the docs by contacting us you are able to solve errors.
+        You can also contact us if you are facing any errors regarding practicing and regarding the docs; by contacting us, you are able to solve errors.
       </>
     ),
   },
