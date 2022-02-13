@@ -48,25 +48,25 @@ Lets understand the code of HTML's boilerplate
 ```html
 <head>
 ```
-- Head contains all the meta-tags in it which is used to describe the contents of a website. Meta means providing information about information. Therefore, meta tags are used to define the keywords and descriptions on our website. Head also contains the title of the website and all the external files like CSS and JavaScript that we link to it.
+- Head contains all the meta-tags in it, which is used to describe the contents of a website. Meta means providing information about information. Therefore, meta tags are used to define the keywords and descriptions on our website. Head also contains the title of the website and all the external files like CSS and JavaScript that we link to it.
 
 #### Meta charset tag
 ```html
 <meta charset= “UTF-8”>
 ```
-- It simply means that the characters that are used will be of UTF-8. It declares the page’s character encoding. It should contain a standard IANA MIME name for character encodings. Moreover, authors are encouraged to use UTF-8. 
+- It simply means that the characters that are used will be UTF-8. It declares the page’s character encoding. It should contain a standard IANA MIME name for character encodings. Moreover, authors are encouraged to use UTF-8. 
 
 #### Meta viewport tag
 ```html
 <meta name= “viewport” content= “width=device-width, initial-scale=1.0">
 ```
-- This tag is used to make your website responsive and adjust its width in such a way that it looks good in both PC or mobile. It helps in making the website mobile friendly also.
+- This tag is used to make your website responsive and adjust its width in such a way that it looks good on both PC and mobile. It helps in making the website mobile-friendly also.
 
 #### Meta tag for internet explorer
 ```html
 <meta http-equiv= “X-UA-Compatible” content= “ie=edge”>
 ```
-- It helps any particular website to open in the highest compatibility mode available. It is mostly for those who are still using Internet Explorer. Because there are still some people who have not upgraded their system and are still using the older versions.
+- It helps any particular website to open in the highest compatibility mode available. It is mostly for those who are still using Internet Explorer because there are still some people who have not upgraded their system and are still using the older versions.
 
 #### Body Tags
 ```html
@@ -74,10 +74,10 @@ Lets understand the code of HTML's boilerplate
     <!-- all content goes here -->
 </body>
 ```
-- This body tags are used to add code that you want to display to your user as a webpage, content outside these tags will not be visible to the user on your webpage.
+- These body tags are used to add code that you want to display to your user as a webpage, content outside these tags will not be visible to the user on your webpage.
 
 #### HTML closing tag
 ```html
 </html>
 ```
-- This tag show that you have closed your webpage, codes outside this tag will not be render and not be displayed to user.
+- This tag shows that you have closed your webpage. Codes outside this tag will not be rendered and not be displayed to the user.
