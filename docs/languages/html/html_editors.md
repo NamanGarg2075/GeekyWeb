@@ -12,7 +12,7 @@ import TabItem from '@theme/TabItem';
 
 ## What are HTML Editors?
 
-HTML editors are just text editors, editors where we can edit any text as their are many professional html editors are available in this course we are goint to use Visual Studio Code,now you might be wondering what is visual studio code, as we discuss it is a professional code editor let's install it first
+HTML editors are just text editors, editors where we can edit any text as there are many professional HTML editors are available in this course we are going to use Visual Studio Code, now you might be wondering what is visual studio code, as we discuss it is a professional code editor let's install it first
 
 ## Visual Studio Code Installation
 1. Go to Visual Studio Code's Official Website by [Clicking here](https://code.visualstudio.com).
@@ -51,4 +51,4 @@ HTML editors are just text editors, editors where we can edit any text as their 
 </Tabs>
 :::
 
-4. After downloading file simple open it to install ans follow all steps your visual studio will be installed successfully.
+4. After downloading the file, simply open it to install and follow all steps. Your visual studio will be installed successfully.
