@@ -7,9 +7,9 @@ sidebar_label: Introduction to HTML
 slug: /html
 ---
 
-<head>
+<!-- <head>
   <meta data-react-helmet="true" property="og:image" content="../../assets/html/introduction-to-html.png"/>
-</head>
+</head> -->
 
 
 # HTML - Hypertext Markup Language

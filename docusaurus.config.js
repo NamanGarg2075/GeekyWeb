@@ -196,6 +196,12 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
         },
+        blog: {
+          feedOptions: {
+            type: 'all',
+            copyright: `Copyright © ${new Date().getFullYear()} GeekyWeb.`,
+          },
+        },
       },
     ],
   ],
