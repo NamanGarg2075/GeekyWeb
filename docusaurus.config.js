@@ -44,8 +44,8 @@ const config = {
 
     ({
   metadata: [{name: 'GeekyWeb,Geekyweb', content: 'html,css,js,javascript,python,coding,programming,go,android,web development,website,apps'}],
-  metadata: [{name: 'generator', content: 'GeekyWeb'}],
-  image: 'img/introduction-to-html.png',
+
+
       navbar: {
         hideOnScroll :true,
         title: 'GeekyWeb', // Navbar title
@@ -201,6 +201,10 @@ module.exports = {
             type: 'all',
             copyright: `Copyright © ${new Date().getFullYear()} GeekyWeb.`,
           },
+        },
+        customFields: {
+          image: '',
+          keywords: [],
         },
       },
     ],
