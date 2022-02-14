@@ -1,3 +1,4 @@
 User-agent: * 
-Disallow:
+Disallow: /search
+Disallow: /markdown-page
 Sitemap: https://geekyweb.tk/sitemap.xml
