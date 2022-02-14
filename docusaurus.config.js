@@ -43,6 +43,8 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 
     ({
+  metadata: [{name: 'GeekyWeb,Geekyweb', content: ',html,css,js,javascript,python,coding,programming,go,android,web development,website,apps'}],
+
       navbar: {
         hideOnScroll :true,
         title: 'GeekyWeb', // Navbar title
@@ -182,9 +184,8 @@ plugins: [
       },
     ],
   ],
-
   
-  };
+};
 
 module.exports = {
   presets: [
