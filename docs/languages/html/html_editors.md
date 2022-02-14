@@ -7,6 +7,7 @@ slug: /html/html-editors
 <!-- Import files -->
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
+import Print from '@site/src/components/PrintContent'
 
 ![HTML Editors](../../assets/html/html-editors.png)
 
@@ -52,3 +53,6 @@ HTML editors are just text editors, editors where we can edit any text as there 
 :::
 
 4. After downloading the file, simply open it to install and follow all steps. Your visual studio will be installed successfully.
+
+<Print />
+

@@ -7,6 +7,8 @@ sidebar_position: 1
 sidebar_label: Introduction to HTML
 slug: /html
 ---
+<!-- Import files -->
+import Print from '@site/src/components/PrintContent'
 
 # HTML - Hypertext Markup Language
 
@@ -51,6 +53,7 @@ As it turns out, HTML is a very friendly language, and it is on good terms with 
 HTML is not a programming language well HTML controls the presentation, structure, and layout of the data on a webpage, and It just does not contain any functional programming logic. Manipulating data is not in its nature. Neither does it perform tasks like event handling, taking input, and displaying output; this is what makes it different from a programming language.
 
 
+
 ## Start You Journey Now 
 
 <details>
@@ -65,3 +68,5 @@ HTML is not a programming language well HTML controls the presentation, structur
     - <a href="/docs/html/html-tags">HTML Tags</a> <br/>
   </div>
 </details>
+
+<Print />
