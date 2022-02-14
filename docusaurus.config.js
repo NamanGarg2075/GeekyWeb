@@ -205,6 +205,7 @@ module.exports = {
         customFields: {
           image: '',
           keywords: [],
+          description: '',
         },
       },
     ],
