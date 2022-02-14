@@ -203,7 +203,7 @@ module.exports = {
           },
         },
         customFields: {
-          image: '',
+          image: 'img/introduction-to-html.png',
           keywords: [],
           description: '',
         },
