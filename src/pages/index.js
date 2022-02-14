@@ -36,7 +36,8 @@ export default function Features() {
   return (
     <Layout
       title={`Home`}
-      description="Description will go into a meta tag in <head />">
+      description="GeekyWeb helps you in learning different programming languages, and in much more"
+      image='img/introduction-to-html.png'>
       <HomepageHeader />
       <main>
         <HomepageFeatures />
