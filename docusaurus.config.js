@@ -184,8 +184,7 @@ plugins: [
   ],
 
   
-  metadata: [{name: 'GeekyWeb,Geekyweb', content: ',html,css,js,javascript,python,coding,programming,go,android,web development,website,apps'}],
-};
+  };
 
 module.exports = {
   presets: [

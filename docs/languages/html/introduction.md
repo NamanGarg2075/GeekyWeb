@@ -1,5 +1,8 @@
 ---
 title: Introduction to HTML
+description: HTML stands for hypertext markup language used to create web pages using a markup language. HTML is the root language....
+image: ../../assets/html/introduction-to-html.png
+keywords: [coding, web development, html, introduction to html, what is html]
 sidebar_position: 1
 sidebar_label: Introduction to HTML
 slug: /html
