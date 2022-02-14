@@ -8,7 +8,7 @@ slug: /html
 ---
 
 <head>
-  <meta data-react-helmet="true" property="og:image" content="../../assets/html/introduction-to-html.png">
+  <meta data-react-helmet="true" property="og:image" content="../../assets/html/introduction-to-html.png"/>
 </head>
 
 
