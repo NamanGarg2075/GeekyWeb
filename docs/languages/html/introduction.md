@@ -10,12 +10,6 @@ slug: /html
 <!-- Import files -->
 import Print from '@site/src/components/PrintContent'
 
-<!-- <head>
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=620d29ac7f089d001d3ec76a&product=inline-reaction-buttons" async="async"></script>
-</head> -->
-
-
-
 # HTML - Hypertext Markup Language
 
 ![Introduction to HTML](../../assets/html/introduction-to-html.png)
