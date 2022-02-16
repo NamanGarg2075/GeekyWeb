@@ -7,7 +7,12 @@ slug: /html/html-editors
 <!-- Import files -->
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
-import Print from '@site/src/components/PrintContent'
+
+<!-- import Print from '@site/src/components/PrintContent' -->
+<head>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=620d29ac7f089d001d3ec76a&product=inline-reaction-buttons" async="async"></script>
+</head>
+
 
 ![HTML Editors](../../assets/html/html-editors.png)
 
@@ -54,5 +59,6 @@ HTML editors are just text editors, editors where we can edit any text as there 
 
 4. After downloading the file, simply open it to install and follow all steps. Your visual studio will be installed successfully.
 
-<Print />
+<!-- <Print /> -->
 
+<div class="sharethis-inline-reaction-buttons"></div>

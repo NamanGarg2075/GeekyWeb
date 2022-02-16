@@ -8,8 +8,11 @@ sidebar_label: Introduction to HTML
 slug: /html
 ---
 <!-- Import files -->
-import Print from '@site/src/components/PrintContent'
+<!-- import Print from '@site/src/components/PrintContent' -->
 
+<head>
+<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=620d29ac7f089d001d3ec76a&product=inline-reaction-buttons" async="async"></script>
+</head>
 
 
 
@@ -72,4 +75,6 @@ HTML is not a programming language well HTML controls the presentation, structur
   </div>
 </details>
 
-<Print />
+<!-- <Print /> -->
+
+<div class="sharethis-inline-reaction-buttons"></div>
