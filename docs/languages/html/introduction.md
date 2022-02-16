@@ -10,6 +10,9 @@ slug: /html
 <!-- Import files -->
 import Print from '@site/src/components/PrintContent'
 
+
+
+
 # HTML - Hypertext Markup Language
 
 ![Introduction to HTML](../../assets/html/introduction-to-html.png)
