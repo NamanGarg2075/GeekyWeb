@@ -10,6 +10,7 @@ import "@fontsource/josefin-sans";
 import "@fontsource/cascadia-code";
 import "@fontsource/fredoka-one";
 import "@fontsource/patrick-hand";
+import "../components/social";
 
 
 function HomepageHeader() {
@@ -30,6 +31,10 @@ function HomepageHeader() {
     </header>
   );
 }
+
+
+
+
 
 export default function Features() {
   const {siteConfig} = useDocusaurusContext();
