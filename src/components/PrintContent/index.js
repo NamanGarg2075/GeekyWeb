@@ -5,16 +5,16 @@ import React from 'react';
 
 // import Link from '@docusaurus/Link';
 
-function pprrint() {
-    function pprint() {
+function socialShare() {
+    function printContent() {
         window.print()
     }
     return (
         <>
-    <button class="button button--primary" onClick={pprint}>Print</button>
+    <button class="button button--primary" onClick={printContent}>🖨️ Print</button>
     
     </>
   );
 }
 
-export default pprrint;
+export default socialShare;
