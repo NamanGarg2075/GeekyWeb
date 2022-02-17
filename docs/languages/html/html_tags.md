@@ -6,7 +6,7 @@ slug: /html/html-tags
 ---
 <!-- Import files -->
 import BrowserWindow from '@site/src/components/BrowserWindow'
-import Print from '@site/src/components/PrintContent'
+import SocialShare from '@site/src/components/SocialShare'
 
 # HTML Tags
 
@@ -71,4 +71,4 @@ There are many more tags like this. Explore all of them now [Click Here](html-ta
 
 :::
 
-<Print />
+<SocialShare />

@@ -8,7 +8,7 @@ sidebar_label: Introduction to HTML
 slug: /html
 ---
 <!-- Import files -->
-import Print from '@site/src/components/PrintContent'
+import SocialShare from '@site/src/components/SocialShare'
 
 # HTML - Hypertext Markup Language
 
@@ -69,4 +69,4 @@ HTML is not a programming language well HTML controls the presentation, structur
   </div>
 </details>
 
-<Print />
+<SocialShare />

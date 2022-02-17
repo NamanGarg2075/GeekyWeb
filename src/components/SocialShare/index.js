@@ -1,8 +1,8 @@
 import React from 'react';
 import {InlineReactionButtons} from 'sharethis-reactjs';
 import {InlineShareButtons} from 'sharethis-reactjs';
-import {StickyShareButtons} from 'sharethis-reactjs';
-import {InlineFollowButtons} from 'sharethis-reactjs';
+// import {StickyShareButtons} from 'sharethis-reactjs';
+// import {InlineFollowButtons} from 'sharethis-reactjs';
 // import Layout from '@theme/Layout';
 // import styles from '../pages/introduction.css'
 // import './courses.module.css' // if needed then
@@ -10,15 +10,12 @@ import {InlineFollowButtons} from 'sharethis-reactjs';
 // import Link from '@docusaurus/Link';
 
 function pprrint() {
-    function pprint() {
-        window.print()
-    }
     return (
         <>
     {/* <button class="button button--primary" onClick={pprint}>Print</button> */}
 {/* <hr/> */}
 <hr/>
-<h2>React This Docus</h2>
+<h2>React This Page</h2>
     <InlineReactionButtons
           config={{
             alignment: 'center',  // alignment of buttons (left, center, right)

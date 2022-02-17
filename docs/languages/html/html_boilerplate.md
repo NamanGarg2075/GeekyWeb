@@ -5,9 +5,9 @@ sidebar_label: HTML Boilerplate
 slug: /html/html-boilerplate
 ---
 
-import Print from '@site/src/components/PrintContent'
+import SocialShare from '@site/src/components/SocialShare'
 
-<!-- # HTML Boilerplate -->
+# HTML Boilerplate
 
 ![HTML Boilerplate](../../assets/html/html-boilerplate.png)
 
@@ -84,4 +84,4 @@ Lets understand the code of HTML's boilerplate
 ```
 - This tag shows that you have closed your webpage. Codes outside this tag will not be rendered and not be displayed to the user.
 
-<Print />
+<SocialShare />
