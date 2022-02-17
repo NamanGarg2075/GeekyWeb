@@ -35,7 +35,7 @@ function pprrint() {
             spacing: 8,           // the spacing between buttons (INTEGER)
 
             // OPTIONAL PARAMETERS
-            url: 'https://geekyweb.tk' // (defaults to current url)
+            url: '' // (defaults to current url)
           }}
           />
           <hr/>
