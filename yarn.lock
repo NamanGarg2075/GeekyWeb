@@ -6909,6 +6909,11 @@
   dependencies:
     "kind-of" "^6.0.2"
 
+"sharethis-reactjs@^1.6.0":
+  "integrity" "sha512-cYrf9OgStwfOjPrHhk/0SpFuJNFQQU6OY7pWlhWtu3smuF+rYNF+vOL4aM/pwaP1QGwwrEuHTAqfpG3OWXPIag=="
+  "resolved" "https://registry.npmjs.org/sharethis-reactjs/-/sharethis-reactjs-1.6.0.tgz"
+  "version" "1.6.0"
+
 "shebang-command@^2.0.0":
   "integrity" "sha512-kHxr2zZpYtdmrN1qDjrrX/Z1rR1kG8Dx+gkpK1G4eXmvXswmcE1hTWBWYUzlraYw1/yZp6YuDY77YtvbN0dmDA=="
   "resolved" "https://registry.npmjs.org/shebang-command/-/shebang-command-2.0.0.tgz"
