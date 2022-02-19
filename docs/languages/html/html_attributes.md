@@ -8,7 +8,7 @@ slug: /html/html-attributes
 import BrowserWindow from '@site/src/components/BrowserWindow'
 import SocialShare from '@site/src/components/SocialShare'
 
-![HTML Tags](../../assets/html/html-attributes.png)
+![HTML Attributes](../../assets/html/html-attributes.png)
 
 ## Introduction
 
