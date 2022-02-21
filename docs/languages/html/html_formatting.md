@@ -109,7 +109,11 @@ Hello 👋! I am <strong>Strong</strong> Tag
 </BrowserWindow>
 
 :::info Note
-`<b>` (Bold) and `<strong>` (Strong) tags are mostly same do same work
+
+`<b>` (Bold) and `<strong>` (Strong) tags are mostly same do same work but also there is a difference.
+
+- The difference between these tags is that `<b>` makes the text look bolder in appearance only, while the `<strong>` tag also provides semantic emphasis that reflects the meaning of the word or part of the text.
+
 :::
 
 <SocialShare />
