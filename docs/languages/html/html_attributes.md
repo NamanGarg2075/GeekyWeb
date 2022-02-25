@@ -5,11 +5,13 @@ sidebar_label: HTML Attributes
 slug: /html/html-attributes
 description: HTML Attributes tutorial on what are attributes and how to use them
 ---
+
 <!-- Import files -->
+
 import BrowserWindow from '@site/src/components/BrowserWindow'
 import SocialShare from '@site/src/components/SocialShare'
 
-![HTML Attributes](../../assets/html/html-attributes.png)
+![HTML Attributes](../../../static/img/docs/html/html-attributes.png)
 
 ## Introduction
 
@@ -17,7 +19,7 @@ They are a type of Html Elements Modifier. Example: HTML attributes can be used 
 
 ## The href Attribute
 
-The `<a>` tag defines the link href attribute specifies a page url. 
+The `<a>` tag defines the link href attribute specifies a page url.
 Example:
 
 ```html
@@ -27,10 +29,10 @@ Example:
 ## The Src Attribute
 
 the `<img>` tag is used to add an image to an HTML document. The src attribute specifies the path of the image that is to be displayed.
-Example : 
+Example :
 
 ```html
-<img src="demoimage.png">
+<img src="demoimage.png" />
 ```
 
 ## The Width and Height Attributes
@@ -39,7 +41,7 @@ The width and height of the attribute specify the Width and Length of the Image 
 Example:
 
 ```html
-<img src="demoimage.png" width="250px" height="250px">
+<img src="demoimage.png" width="250px" height="250px" />
 ```
 
 ## The title Attributes
@@ -59,16 +61,14 @@ The lang attributes is included inside the `<html>` tag which describes the lang
 ```html {2}
 <!DOCTYPE html>
 <html lang="en">
-<body>
-
-</body>
+  <body></body>
 </html>
 ```
 
 ## The Style Attributes
 
-The style attribute is used to enhance the style of the element. 
-Example : 
+The style attribute is used to enhance the style of the element.
+Example :
 
 ```html
 <p style="font-size:30px">This is dummy paragraph with font size of 30px</p>
@@ -77,10 +77,10 @@ Example :
 ## The Alt Attribute
 
 The alt attributes specifies the Alternate text for the image.
-Example: 
+Example:
 
 ```html
-<img src="logo.jpg" alt="Logo Here">
+<img src="logo.jpg" alt="Logo Here" />
 ```
 
 <SocialShare />

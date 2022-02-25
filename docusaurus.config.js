@@ -15,7 +15,7 @@ const config = {
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'designatory',
-  projectName: 'GeekyWeb', 
+  projectName: 'GeekyWeb',
   trailingSlash: false,
 
   presets: [
@@ -43,11 +43,11 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
 
     ({
-  metadata: [{name: 'GeekyWeb,Geekyweb', content: 'html,css,js,javascript,python,coding,programming,go,android,web development,website,apps'}],
+      metadata: [{ name: 'GeekyWeb,Geekyweb', content: 'html,css,js,javascript,python,coding,programming,go,android,web development,website,apps' }],
 
 
       navbar: {
-        hideOnScroll :true,
+        hideOnScroll: true,
         title: 'GeekyWeb', // Navbar title
         logo: {
           alt: 'GeekyWeb Logo',
@@ -62,7 +62,7 @@ const config = {
           //   label: 'Tutorial',
           // },
           // {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/courses', label: 'Courses', position: 'left'},
+          { to: '/courses', label: 'Courses', position: 'left' },
 
           {
             type: 'dropdown',
@@ -91,32 +91,32 @@ const config = {
         ],
       },
 
-          colorMode: {
-      defaultMode: 'light',
-      disableSwitch: false,
-      respectPrefersColorScheme: false,
-      switchConfig: {
-        darkIcon: '\u{2601}',
-        darkIconStyle: {
-          marginLeft: '2px',
-        },
-        // Unicode icons such as '\u2600' will work
-        // Unicode with 5 chars require brackets: '\u{1F602}'
-        lightIcon: '\u{2600}',
-        lightIconStyle: {
-          marginLeft: '2px',
+      colorMode: {
+        defaultMode: 'light',
+        disableSwitch: false,
+        respectPrefersColorScheme: false,
+        switchConfig: {
+          darkIcon: '\u{2601}',
+          darkIconStyle: {
+            marginLeft: '2px',
+          },
+          // Unicode icons such as '\u2600' will work
+          // Unicode with 5 chars require brackets: '\u{1F602}'
+          lightIcon: '\u{2600}',
+          lightIconStyle: {
+            marginLeft: '2px',
+          },
         },
       },
-    },
 
-    announcementBar: {
-      id: 'announcement',
-      content: 
-        'Give us a Star &#11088; on Github <a target="_blank" rel="noopener noreferrer" href="https://github.com/designatory/GeekyWeb">Star Now</a>',
-      backgroundColor: '#0c141f',
-      textColor: '#ebe3e3',
-      isCloseable: true,
-    },
+      announcementBar: {
+        id: 'announcement',
+        content:
+          'Give us a Star &#11088; on Github <a target="_blank" rel="noopener noreferrer" href="https://github.com/designatory/GeekyWeb">Star Now</a>',
+        backgroundColor: '#0c141f',
+        textColor: '#ebe3e3',
+        isCloseable: true,
+      },
 
       footer: {
         style: 'dark',
@@ -151,8 +151,8 @@ const config = {
             title: 'Follow Us',
             items: [
               // {
-                // label: 'Blog',
-                // to: '/blog',
+              // label: 'Blog',
+              // to: '/blog',
               // },
               {
                 label: 'GitHub',
@@ -177,7 +177,7 @@ const config = {
       },
     }),
 
-plugins: [
+  plugins: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
       {
@@ -185,7 +185,7 @@ plugins: [
       },
     ],
   ],
-  
+
 };
 
 module.exports = {
@@ -203,7 +203,7 @@ module.exports = {
           },
         },
         customFields: {
-          image: 'img/introduction-to-html.png',
+          image: 'img/custom-data-image.pngd',
           keywords: [],
           description: '',
         },

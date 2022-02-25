@@ -13,7 +13,7 @@ import SocialShare from '@site/src/components/SocialShare'
 
 # HTML Formatting
 
-![HTML Formatting](../../assets/html/html-formatting.png)
+![HTML Formatting](../../../static/img/docs/html/html-formatting.png)
 
 ## Introduction
 
