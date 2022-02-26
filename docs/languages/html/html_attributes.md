@@ -1,7 +1,7 @@
 ---
 title: HTML Attributes
 description: HTML Attributes tutorial on what are attributes and how to use them
-image: "/img/html-attributes.png"
+image: "/img/docs/html/html-attributes.png"
 keywords: [coding, web development, html, html attributes]
 sidebar_position: 5
 sidebar_label: HTML Attributes
