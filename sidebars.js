@@ -33,7 +33,7 @@ const sidebars = {
     },
   ],
 
-  python: [
+  Python: [
     {
       type: 'category',
       label: 'Python Tutorials',

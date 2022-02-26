@@ -60,7 +60,7 @@ HTML is not a programming language well HTML controls the presentation, structur
 <details>
   <summary>Select Topic</summary>
   <div>
-    <div>Select Topic from below ans start learning</div>
+    <div>Select Topic from below and start learning</div>
     <br/>
     <h3>HTML Tutorials</h3>
     - <a href="/docs/html">Introduction to HTML</a> <br/>
