@@ -79,6 +79,12 @@ const config = {
                 docId: 'languages/html/introduction',
               },
 
+              {
+                type: 'doc',
+                label: 'PYTHON',
+                docId: 'languages/python/introduction',
+              },
+
 
             ],
           },
