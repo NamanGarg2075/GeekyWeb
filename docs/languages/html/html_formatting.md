@@ -1,9 +1,11 @@
 ---
 title: HTML Formatting
+description: HTML Formatting help us with document formatting...
+image: "/img/html-attributes.png"
+keywords: [coding, web development, html, html formatting]
 sidebar_position: 6
 sidebar_label: HTML Formatting
 slug: /html/html-formatting
-description: HTML Formatting help us with document formatting...
 ---
 
 <!-- import components -->

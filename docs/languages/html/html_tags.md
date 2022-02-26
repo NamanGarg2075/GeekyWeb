@@ -1,5 +1,8 @@
 ---
 title: HTML Tags
+description: HTML Tags play an important role in web development, tags hold content to display there are specific tags for specific texts, like if you want to add paragraph then use `<p> </p>` tags for heading `<h1> </h1>` and many more...
+image: "/img/html-tags.png"
+keywords: [coding, web development, html, html tags]
 sidebar_position: 4
 sidebar_label: HTML Tags
 slug: /html/html-tags

@@ -1,5 +1,8 @@
 ---
 title: HTML Editors
+description: HTML editors are just text editors, editors where we can edit any text as there are many professional HTML editors are available in this course we are going to use Visual Studio Code, now you might be wondering what is visual studio code, as we discuss it is a professional code editor let's install it first
+image: "/img/html-editors.png"
+keywords: [coding, web development, html, html editors]
 sidebar_position: 2
 sidebar_label: HTML Editors
 slug: /html/html-editors

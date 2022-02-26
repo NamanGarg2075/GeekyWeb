@@ -1,5 +1,8 @@
 ---
 title: HTML Boilerplate
+description: HTML boilerplate code is the main or basic code in which you can write...
+image: "/img/html-boilerplate.png"
+keywords: [coding, web development, html, html boilerplate]
 sidebar_position: 3
 sidebar_label: HTML Boilerplate
 slug: /html/html-boilerplate

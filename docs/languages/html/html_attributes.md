@@ -1,9 +1,11 @@
 ---
 title: HTML Attributes
+description: HTML Attributes tutorial on what are attributes and how to use them
+image: "/img/html-attributes.png"
+keywords: [coding, web development, html, html attributes]
 sidebar_position: 5
 sidebar_label: HTML Attributes
 slug: /html/html-attributes
-description: HTML Attributes tutorial on what are attributes and how to use them
 ---
 
 <!-- Import files -->
