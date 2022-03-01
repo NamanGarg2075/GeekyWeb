@@ -1,7 +1,7 @@
 ---
 title: Introduction to Python
-description: HTML boilerplate code is the main or basic code in which you can write...
-image: "/img/introduction-to-python.png"
+description: Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991...
+image: "/img/docs/python/introduction-to-python.png"
 keywords: [coding, python, introduction to python]
 sidebar_position: 3
 sidebar_label: Introduction to Python
