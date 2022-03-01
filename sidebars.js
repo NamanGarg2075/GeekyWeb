@@ -36,7 +36,7 @@ const sidebars = {
   Python: [
     {
       type: 'category',
-      label: 'Python Tutorials',
+      label: 'Getting Started',
       items: [
         'languages/python/introduction',
         'languages/python/python_installation',
