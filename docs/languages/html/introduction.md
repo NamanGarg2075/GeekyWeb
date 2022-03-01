@@ -8,11 +8,11 @@ sidebar_label: Introduction to HTML
 slug: /html
 ---
 
+# HTML - Hypertext Markup Language
+
 <!-- Import files -->
 
 import SocialShare from '@site/src/components/SocialShare'
-
-# HTML - Hypertext Markup Language
 
 ![Introduction to HTML](../../../static/img/docs/html/introduction-to-html.png)
 

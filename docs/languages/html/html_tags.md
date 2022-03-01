@@ -8,12 +8,12 @@ sidebar_label: HTML Tags
 slug: /html/html-tags
 ---
 
+# HTML Tags
+
 <!-- Import files -->
 
 import BrowserWindow from '@site/src/components/BrowserWindow'
 import SocialShare from '@site/src/components/SocialShare'
-
-# HTML Tags
 
 ![HTML Tags](../../../static/img/docs/html/html-tags.png)
 

@@ -8,9 +8,9 @@ sidebar_label: HTML Boilerplate
 slug: /html/html-boilerplate
 ---
 
-import SocialShare from '@site/src/components/SocialShare'
-
 # HTML Boilerplate
+
+import SocialShare from '@site/src/components/SocialShare'
 
 ![HTML Boilerplate](../../../static/img/docs/html/html-boilerplate.png)
 

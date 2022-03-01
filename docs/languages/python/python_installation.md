@@ -8,11 +8,11 @@ sidebar_label: Python Installation
 slug: /python/python-installation
 ---
 
+# Python Installation
+
 <!-- Import files -->
 
 import SocialShare from '@site/src/components/SocialShare'
-
-# Python Installation
 
 ![Python Installation](../../../static/img/docs/python/python-installation.png)
 

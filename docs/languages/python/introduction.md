@@ -8,11 +8,11 @@ sidebar_label: Introduction to Python
 slug: /python
 ---
 
+# Introduction to Python
+
 <!-- Import files -->
 
 import SocialShare from '@site/src/components/SocialShare'
-
-# Introduction to Python
 
 ![Introduction to Python](../../../static/img/docs/python/introduction-to-python.png)
 

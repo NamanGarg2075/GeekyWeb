@@ -8,13 +8,13 @@ sidebar_label: HTML Editors
 slug: /html/html-editors
 ---
 
+# HTML Editors
+
 <!-- Import files -->
 
 import Tabs from '@theme/Tabs';
 import TabItem from '@theme/TabItem';
 import SocialShare from '@site/src/components/SocialShare'
-
-# HTML Editors
 
 ![HTML Editors](../../../static/img/docs/html/html-editors.png)
 

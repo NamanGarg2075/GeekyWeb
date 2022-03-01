@@ -8,12 +8,12 @@ sidebar_label: HTML Formatting
 slug: /html/html-formatting
 ---
 
+# HTML Formatting
+
 <!-- import components -->
 
 import BrowserWindow from '@site/src/components/BrowserWindow'
 import SocialShare from '@site/src/components/SocialShare'
-
-# HTML Formatting
 
 ![HTML Formatting](../../../static/img/docs/html/html-formatting.png)
 
