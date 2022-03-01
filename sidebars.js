@@ -39,6 +39,7 @@ const sidebars = {
       label: 'Python Tutorials',
       items: [
         'languages/python/introduction',
+        'languages/python/python_installation',
       ],
     },
   ],
