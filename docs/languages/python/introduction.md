@@ -34,8 +34,9 @@ Two major versions of Python are currently in active use:
   <div>
     <div>Select Topic from below and start learning</div>
     <br/>
-    <h3>Python Tutorials</h3>
+    <h3>Getting Started</h3>
     - <a href="/docs/python">Introduction to Python</a> <br/>
+    - <a href="/docs/python/python-installation">Python Installation</a> <br/>
   </div>
 </details>
 
