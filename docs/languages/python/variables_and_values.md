@@ -8,7 +8,7 @@ sidebar_label: Variables and Assigning values
 slug: /python/creating-variables-and-assigning-values
 ---
 
-# Creating Variables and Assigning Values
+# Creating variables and assigning values
 
 <!-- Import files -->
 
