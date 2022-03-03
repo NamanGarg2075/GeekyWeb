@@ -1,6 +1,6 @@
 ---
 title: Creating variables and assigning values
-description: Open code editor of your choice like vs code or python IDLE, fist open command prompt in your windows machine and start typing the below command...
+description: To create a variable in Python, all you need to do is specify the variable name, and then assign a value to it.
 image: "/img/docs/python/variables-and-values.png"
 keywords: [coding, python, variables, values]
 sidebar_position: 4
