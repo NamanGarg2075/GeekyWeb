@@ -38,6 +38,7 @@ Two major versions of Python are currently in active use:
     - <a href="/docs/python">Introduction to Python</a> <br/>
     - <a href="/docs/python/python-installation">Python Installation</a> <br/>
     - <a href="/docs/python/hello-world-in-python">Hello World in Python</a> <br/>
+    - <a href="/docs/python/creating-variables-and-assigning-values">Creating variables and assigning values</a> <br/>
   </div>
 </details>
 
