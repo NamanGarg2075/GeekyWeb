@@ -28,7 +28,7 @@ GeekyWeb was designed from the ground up to be easy to use and learn different p
 
 - Run `npm install` to install the Node.js dependencies.
 - From the root directory, run `npm start` in the command line.
-- Open http://localhost:3000/ in your browser.
+- Open `http://localhost:3000/` in your browser.
 
 To contribute please [readme](https://geekyweb.tk/docs/legal/contributing)
 
