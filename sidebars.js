@@ -41,6 +41,7 @@ const sidebars = {
         'languages/python/introduction',
         'languages/python/python_installation',
         'languages/python/hello_world_in_python',
+        'languages/python/variables_and_values',
       ],
     },
   ],
