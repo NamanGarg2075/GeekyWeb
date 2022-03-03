@@ -1,6 +1,6 @@
 ---
 title: Hello World in Python
-description: Python is a widely used high-level programming language for general-purpose programming, created by Guido van Rossum and first released in 1991...
+description: Open code editor of your choice like vs code or python IDLE, fist open command prompt in your windows machine and start typing the below command...
 image: "/img/docs/python/hello-world-in-python.png"
 keywords: [coding, python, hello world in python]
 sidebar_position: 3
