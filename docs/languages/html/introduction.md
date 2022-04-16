@@ -102,7 +102,7 @@ Apart from text, the current version of HTML supports many different [types of m
 
 <hr/>
 
-## Start You Journey Now
+<!-- ## Start You Journey Now
 
 <details>
   <summary>Select Topic</summary>
@@ -117,6 +117,6 @@ Apart from text, the current version of HTML supports many different [types of m
     - <a href="/docs/html/html-attributes">HTML Attributes</a> <br/>
     - <a href="/docs/html/html-formatting">HTML Formatting</a> <br/>
   </div>
-</details>
+</details> -->
 
 <SocialShare />
