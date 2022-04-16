@@ -9,7 +9,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/oceanicNext');
 const config = {
   title: 'GeekyWeb',
   tagline: 'Learn to C<>De with GeekyWeb',
-  url: 'https://geekyweb.tk',
+  url: 'https://geekyweb.eu.org',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -79,11 +79,11 @@ const config = {
                 docId: 'languages/html/introduction',
               },
 
-              {
-                type: 'doc',
-                label: 'PYTHON',
-                docId: 'languages/python/introduction',
-              },
+              // {
+              //   type: 'doc',
+              //   label: 'PYTHON',
+              //   docId: 'languages/python/introduction',
+              // },
 
 
             ],

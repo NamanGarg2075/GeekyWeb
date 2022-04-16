@@ -28,22 +28,6 @@ function courses() {
             </div>
           </div>
 
-          <div className="card">
-            <div className="card__header">
-              <img src="/img/courses/python-language.png" alt="Python - full course" className="card__image" width={600} />
-            </div>
-            <div className="card__body">
-              <span className="tag tag-blue">AI/ML</span>
-              <h4>PYTHON - Basic to Advanced</h4>
-            </div>
-            <div className="card__footer">
-              <Link
-                className="card__btn button button--primary"
-                to="/docs/python">
-                Start Course →
-              </Link>
-            </div>
-          </div>
 
         </div>
       </div>

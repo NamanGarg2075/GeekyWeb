@@ -1,7 +1,7 @@
 ---
 title: Introduction to HTML
 description: HTML stands for hypertext markup language used to create web pages using a markup language. HTML is the root language....
-image: "/img/docs/html/introduction-to-html.png"
+# image: "/img/docs/html/introduction-to-html.png"
 keywords: [coding, web development, html, introduction to html, what is html]
 sidebar_position: 1
 sidebar_label: Introduction to HTML
@@ -12,48 +12,95 @@ slug: /html
 
 <!-- Import files -->
 
-import SocialShare from '@site/src/components/SocialShare'
+import SocialShare from '@site/src/components/SocialShare';
 
-![Introduction to HTML](../../../static/img/docs/html/introduction-to-html.png)
+## Introduction
 
-HTML stands for hypertext markup language used to create web pages using a markup language. HTML is the root language for creating web pages. HTML's first standard version was HTML 2.0, and it was published in 1999, and today it is one of the most popular languages. Let's start exploring this language.
+[HTML](https://en.wikipedia.org/wiki/HTML) (**H**yper**t**ext **M**arkup **L**anguage) uses a markup system composed of elements which represent specific content. **Markup** means that with HTML you declare **what** is presented to a viewer, not **how** it is presented. Visual representations are defined by [Cascading Style Sheets (CSS)](https://en.wikipedia.org/wiki/CSS) and realized by browsers. [Still existing elements that allow for such](https://www.w3.org/TR/html5/obsolete.html#non-conforming-features), like e.g. [`font`](https://www.w3.org/wiki/HTML/Elements/font), "are entirely obsolete, and must not be used by authors".
 
-An HTML document consists of 2 important parts:
+:::info
+HTML is sometimes called a programming language but it has no logic, so is a **markup language**. HTML tags provide semantic meaning and machine-readability to the content in the page.
+:::
 
-- **Document Creation** (what the user will see)
-- [**Tags**](html/html-tags) (and how they see it)
+An element usually consists of an opening tag (`<element_name>`), a closing tag (`</element_name>`), which contain the element's name surrounded by angle brackets, and the content in between: `<element_name>...content...</element_name>`
 
-## Below Some Points are very basic but important
+There are some HTML elements that don't have a closing tag or any contents. These are called [void elements](https://stackoverflow.com/documentation/html/1449/void-elements). Void elements include `<img>`, `<meta>`, `<link>` and `<input>`.
 
-- The `<html>` is considered the head of the family. From this tag, the browser recognizes it's an HTML Document.
+Element names can be thought of as descriptive keywords for the content they contain, such as `video`, `audio`, `table`, `footer`.
 
-- For every [opening tag](html/html-tags#opening-tags) there is a [closing tag](html/html-tags#closing-tags) like `</html>`
+A HTML page may consist of potentially hundreds of elements which are then read by a web browser, interpreted and rendered into human readable or audible content on the screen.
 
-- The tag `<html>` is followed by the `<head>` tag, this is a special one, and the content written inside is not displayed on the webpage. It comprises of the title (of the browser window) or any other instruction, which you want to provide to the web browser, for example:
+For this document it is important to note the difference between elements and tags:
+
+**Elements:** `video`, `audio`, `table`, `footer`
+
+**Tags:** `<video>`, `<audio>`, `<table>`, `<footer>`, `</html>`, `</body>`
+
+<hr />
+
+## Element insight
+
+Let's break down a tag...
+
+The `<p>` tag represents a common paragraph.
+
+Elements commonly have an opening tag and a closing tag. The opening tag contains the element's name in angle brackets (`<p>`). The closing tag is identical to the opening tag with the addition of a forward slash (`/`) between the opening bracket and the element's name (`</p>`).
+
+Content can then go between these two tags: `<p>This is a simple paragraph.</p>`.
+
+<hr />
+
+## Creating a simple page
+
+The following HTML example creates a simple ["Hello World"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) web page.
+
+HTML files can be created using any [text editor](https://en.wikipedia.org/wiki/Text_editor). The files must be saved with a `.html` or `.htm`<sup>[2]</sup> extension in order to be recognized as HTML files.
+
+Once created, this file can be opened in any web browser.
 
 ```html
-<head>
-  <title>Welcome to GeekyWeb</title>
-</head>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Hello!</title>
+  </head>
+
+  <body>
+    <h1>Hello World!</h1>
+    <p>This is a simple paragraph.</p>
+  </body>
+</html>
 ```
 
-- the `<head>` tag is followed by the `<body>` tag, where the actual content that is visible on the webpage is written, i.e., all the visual elements such as headings, paragraphs, images, etc. <br/> <br/>
+<hr />
 
-## Questions
+## Simple page break down
 
-Before we move any further in this course, several questions may have popped in your head; well, don't worry, we can help you solve at least a few of them. Let's start them.
+These are the tags used in the example:
 
-### 1. How do Web Browsers interact with HTML?
+| Tag          | Meaning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `<!DOCTYPE>` | Defines the HTML version used in the document. In this case it is HTML5.<br/>See the [doctypes topic](http://stackoverflow.com/documentation/html/806/doctypes) for more information.                                                                                                                                                                                                                                                                                                   |
+| `<html>`     | Opens the page. No markup should come after the closing tag (`</html>`). The `lang` attribute declares the primary language of the page using the [ISO language codes](https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) (`en` for English).<br />See the [Content Language topic](http://stackoverflow.com/documentation/html/737/content-languages#t=201607221637059314928) for more information.                                                                                |
+| `<head>`     | Opens the head section, which does not appear in the main browser window but mainly contains information **about** the HTML document, called **metadata**. It can also contain imports from external stylesheets and scripts. The closing tag is `</head>`.                                                                                                                                                                                                                             |
+| `<meta>`     | Gives the browser some metadata about the document. The `charset` attribute declares the [character encoding](https://www.w3.org/International/questions/qa-html-encoding-declarations.en). Modern HTML documents should always use [UTF-8](https://en.wikipedia.org/wiki/UTF-8), even though it is not a requirement. In HTML, the `<meta>` tag does not require a closing tag.<br />See the [Meta topic](http://stackoverflow.com/documentation/html/1264/meta) for more information. |
+| `<title>`    | The title of the page. Text written between this opening and the closing tag (`</title>`) will be displayed on the tab of the page or in the title bar of the browser.                                                                                                                                                                                                                                                                                                                  |
+| `<body>`     | Opens the part of the document displayed to users, i.e. all the visible or audible content of a page. No content should be added after the closing tag `</body>`.                                                                                                                                                                                                                                                                                                                       |
+| `<h1>`       | A level 1 heading for the page.<br />See [headings](http://stackoverflow.com/documentation/html/226/headings) for more information.                                                                                                                                                                                                                                                                                                                                                     |
+| `<p>`        | Represents a common paragraph of text.                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 
-Browsers are too proud; they do not/cannot read the content directly from the place where it is stored to settle this conflict, web servers are used. A Web Server acts as an intermediator. It patiently listens to the browser's request and executes it for us. The document delivered to the browser contains the HTML text displayed just by identifying the tag `<html>` from the document.
+1. ↑ [HTML5, 11.2 Non-conforming features](https://www.w3.org/TR/html5/obsolete.html#non-conforming-features)<br />
+2. ↑ `.htm` is inherited from the legacy [DOS](https://en.wikipedia.org/wiki/DOS) three character file extension limit.
 
-### 2. What make HTML so powerful?
+## Remarks
 
-As it turns out, HTML is a very friendly language, and it is on good terms with almost all of the web browsers. It isn't needy and works out well using a simple text editor. It is the least complicated when it comes to search engines.
+:::success
+[HTML](https://en.wikipedia.org/wiki/HTML) (**H**yper**t**ext **M**arkup **L**anguage) is an [XML](http://stackoverflow.com/documentation/xml/882/introduction-to-xml#t=201608040152247808936)-compliant system of annotating documents with 'tags'. It is used specifically to create content for web pages and web applications, which can then be shared over a network.
+:::
+Apart from text, the current version of HTML supports many different [types of media](https://en.wikipedia.org/wiki/Media_type), including images and videos.
 
-### 3. Is HTML is a programming language?
-
-HTML is not a programming language well HTML controls the presentation, structure, and layout of the data on a webpage, and It just does not contain any functional programming logic. Manipulating data is not in its nature. Neither does it perform tasks like event handling, taking input, and displaying output; this is what makes it different from a programming language.
+<hr/>
 
 ## Start You Journey Now
 

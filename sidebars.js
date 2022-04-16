@@ -21,32 +21,12 @@ const sidebars = {
   HTML: [
     {
       type: 'category',
-      label: 'HTML Tutorials',
+      label: 'Getting started with HTML',
       items: [
         'languages/html/introduction',
-        'languages/html/html_editors',
-        'languages/html/html_boilerplate',
-        'languages/html/html_tags',
-        'languages/html/html_attributes',
-        'languages/html/html_formatting',
       ],
     },
   ],
-
-  Python: [
-    {
-      type: 'category',
-      label: 'Getting Started',
-      items: [
-        'languages/python/introduction',
-        'languages/python/python_installation',
-        'languages/python/hello_world_in_python',
-        'languages/python/variables_and_values',
-      ],
-    },
-  ],
-
-
 };
 
 module.exports = sidebars;
