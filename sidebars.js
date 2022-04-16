@@ -19,13 +19,13 @@ const sidebars = {
   // But you can create a sidebar manually
 
   HTML: [
-    {
-      type: 'category',
-      label: 'Getting started with HTML',
-      items: [
-        'languages/html/introduction',
-      ],
-    },
+
+    // type: 'category',
+    // label: 'Getting started with HTML',
+    // items: [
+    'languages/html/introduction',
+    // ],
+
   ],
 };
 
