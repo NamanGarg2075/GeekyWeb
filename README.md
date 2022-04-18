@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://geekyweb.tk/">
-    <img src="https://geekyweb.tk/img/logo.svg" alt="Geekyweb logo" width="200" height="165"/>
+    <img src="https://geekyweb.eu.org/img/logo.svg" alt="Geekyweb logo" width="200" height="165"/>
   </a>
 
 </p>
