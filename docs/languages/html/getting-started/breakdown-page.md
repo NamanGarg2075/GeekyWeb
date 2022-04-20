@@ -1,81 +1,14 @@
 ---
-title: Introduction to HTML
-description: HTML stands for hypertext markup language used to create web pages using a markup language. HTML is the root language....
+title: Breakdown of Page
+# description: HTML stands for hypertext markup language used to create web pages using a markup language. HTML is the root language....
 # image: "/img/docs/html/introduction-to-html.png"
 keywords: [coding, web development, html, introduction to html, what is html]
-sidebar_position: 1
-sidebar_label: Introduction to HTML
-slug: /html
+sidebar_position: 4
+sidebar_label: breakdown of Page
+slug: /html/intro/breakdown-of-page
 ---
 
-# HTML - Hypertext Markup Language
-
-<!-- Import files -->
-
-import SocialShare from '@site/src/components/SocialShare';
-
-## Introduction
-
-[HTML](https://en.wikipedia.org/wiki/HTML) (**H**yper**t**ext **M**arkup **L**anguage) uses a markup system composed of elements which represent specific content. **Markup** means that with HTML you declare **what** is presented to a viewer, not **how** it is presented. Visual representations are defined by [Cascading Style Sheets (CSS)](https://en.wikipedia.org/wiki/CSS) and realized by browsers. [Still existing elements that allow for such](https://www.w3.org/TR/html5/obsolete.html#non-conforming-features), like e.g. [`font`](https://www.w3.org/wiki/HTML/Elements/font), "are entirely obsolete, and must not be used by authors".
-
-:::info
-HTML is sometimes called a programming language but it has no logic, so is a **markup language**. HTML tags provide semantic meaning and machine-readability to the content in the page.
-:::
-
-An element usually consists of an opening tag (`<element_name>`), a closing tag (`</element_name>`), which contain the element's name surrounded by angle brackets, and the content in between: `<element_name>...content...</element_name>`
-
-There are some HTML elements that don't have a closing tag or any contents. These are called [void elements](https://stackoverflow.com/documentation/html/1449/void-elements). Void elements include `<img>`, `<meta>`, `<link>` and `<input>`.
-
-Element names can be thought of as descriptive keywords for the content they contain, such as `video`, `audio`, `table`, `footer`.
-
-A HTML page may consist of potentially hundreds of elements which are then read by a web browser, interpreted and rendered into human readable or audible content on the screen.
-
-For this document it is important to note the difference between elements and tags:
-
-**Elements:** `video`, `audio`, `table`, `footer`
-
-**Tags:** `<video>`, `<audio>`, `<table>`, `<footer>`, `</html>`, `</body>`
-
-<hr />
-
-## Element insight
-
-Let's break down a tag...
-
-The `<p>` tag represents a common paragraph.
-
-Elements commonly have an opening tag and a closing tag. The opening tag contains the element's name in angle brackets (`<p>`). The closing tag is identical to the opening tag with the addition of a forward slash (`/`) between the opening bracket and the element's name (`</p>`).
-
-Content can then go between these two tags: `<p>This is a simple paragraph.</p>`.
-
-<hr />
-
-## Creating a simple page
-
-The following HTML example creates a simple ["Hello World"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) web page.
-
-HTML files can be created using any [text editor](https://en.wikipedia.org/wiki/Text_editor). The files must be saved with a `.html` or `.htm`<sup>[2]</sup> extension in order to be recognized as HTML files.
-
-Once created, this file can be opened in any web browser.
-
-```html
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Hello!</title>
-  </head>
-
-  <body>
-    <h1>Hello World!</h1>
-    <p>This is a simple paragraph.</p>
-  </body>
-</html>
-```
-
-<hr />
-
-## Simple page break down
+# Simple page break down
 
 These are the tags used in the example:
 
@@ -92,31 +25,3 @@ These are the tags used in the example:
 
 1. ↑ [HTML5, 11.2 Non-conforming features](https://www.w3.org/TR/html5/obsolete.html#non-conforming-features)<br />
 2. ↑ `.htm` is inherited from the legacy [DOS](https://en.wikipedia.org/wiki/DOS) three character file extension limit.
-
-## Remarks
-
-:::success
-[HTML](https://en.wikipedia.org/wiki/HTML) (**H**yper**t**ext **M**arkup **L**anguage) is an [XML](http://stackoverflow.com/documentation/xml/882/introduction-to-xml#t=201608040152247808936)-compliant system of annotating documents with 'tags'. It is used specifically to create content for web pages and web applications, which can then be shared over a network.
-:::
-Apart from text, the current version of HTML supports many different [types of media](https://en.wikipedia.org/wiki/Media_type), including images and videos.
-
-<hr/>
-
-<!-- ## Start You Journey Now
-
-<details>
-  <summary>Select Topic</summary>
-  <div>
-    <div>Select Topic from below and start learning</div>
-    <br/>
-    <h3>HTML Tutorials</h3>
-    - <a href="/docs/html">Introduction to HTML</a> <br/>
-    - <a href="/docs/html/html-editors">HTML Editors</a> <br/>
-    - <a href="/docs/html/html-boilerplate">HTML Boilerplate</a> <br/>
-    - <a href="/docs/html/html-tags">HTML Tags</a> <br/>
-    - <a href="/docs/html/html-attributes">HTML Attributes</a> <br/>
-    - <a href="/docs/html/html-formatting">HTML Formatting</a> <br/>
-  </div>
-</details> -->
-
-<SocialShare />

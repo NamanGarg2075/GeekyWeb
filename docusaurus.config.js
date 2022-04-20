@@ -76,7 +76,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'HTML',
-                docId: 'languages/html/introduction',
+                docId: 'languages/html/getting-started/introduction',
               },
 
               // {
