@@ -1,7 +1,7 @@
 ---
 title: Adding the Doctype.
 keywords: [coding, web development, html]
-sidebar_position: 1
+sidebar_position: 2
 sidebar_label: Adding the Doctype
 slug: /html/doctypes/adding-the-doctypes
 ---

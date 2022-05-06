@@ -8,8 +8,6 @@ sidebar_label: breakdown of Page
 slug: /html/intro/breakdown-of-page
 ---
 
-# Simple page break down
-
 These are the tags used in the example:
 
 | Tag          | Meaning                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |

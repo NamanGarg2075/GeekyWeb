@@ -8,9 +8,7 @@ sidebar_label: Remarks
 slug: /html/intro/remarks
 ---
 
-# Remarks
-
-:::success
+:::success Remarks
 [HTML](https://en.wikipedia.org/wiki/HTML) (**H**yper**t**ext **M**arkup **L**anguage) is an [XML](http://stackoverflow.com/documentation/xml/882/introduction-to-xml#t=201608040152247808936)-compliant system of annotating documents with 'tags'. It is used specifically to create content for web pages and web applications, which can then be shared over a network.
 :::
 Apart from text, the current version of HTML supports many different [types of media](https://en.wikipedia.org/wiki/Media_type), including images and videos.

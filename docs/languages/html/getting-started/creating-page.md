@@ -8,8 +8,6 @@ sidebar_label: Creating a Page
 slug: /html/intro/creating-a-page
 ---
 
-# Creating a simple page
-
 The following HTML example creates a simple ["Hello World"](https://en.wikipedia.org/wiki/%22Hello,_World!%22_program) web page.
 
 HTML files can be created using any [text editor](https://en.wikipedia.org/wiki/Text_editor). The files must be saved with a `.html` or `.htm` extension in order to be recognized as HTML files.

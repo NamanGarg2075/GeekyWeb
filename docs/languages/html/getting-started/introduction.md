@@ -31,6 +31,12 @@ import SocialShare from '@site/src/components/SocialShare';
     - <a href="/docs/html/doctypes/adding-the-doctypes">Adding the Doctype</a> <br/>
     - <a href="/docs/html/doctypes/html-5-doctype">HTML 5 Doctype</a> <br/>
     - <a href="/docs/html/doctypes/remarks">Remarks</a> <br/>
+    <br/>
+    <h3>✅Headings</h3>
+    - <a href="/docs/html/headings">Introduction to Headings</a> <br/>
+    - <a href="/docs/html/headings/using-headings">Using Headings</a> <br/>
+    - <a href="/docs/html/headings/correct-structure-matters">Correct Structure Matters</a> <br/>
+    - <a href="/docs/html/headings/Remarks">Remarks</a> <br/>
   </div>
 </details>
 

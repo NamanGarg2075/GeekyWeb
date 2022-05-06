@@ -42,6 +42,16 @@ const sidebars = {
         'languages/html/doctypes/remarks',
       ],
     },
+    {
+      type: 'category',
+      label: 'Headings',
+      link: { type: 'doc', id: 'languages/html/headings/introduction' },
+      items: [
+        'languages/html/headings/using-headings',
+        'languages/html/headings/correct-structure-matters',
+        'languages/html/headings/remarks',
+      ],
+    },
   ],
 };
 

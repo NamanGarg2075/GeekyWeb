@@ -1,7 +1,7 @@
 ---
 title: HTML 5 Doctype.
 keywords: [coding, web development, html]
-sidebar_position: 1
+sidebar_position: 3
 sidebar_label: HTML 5 Doctype
 slug: /html/doctypes/html-5-doctype
 ---

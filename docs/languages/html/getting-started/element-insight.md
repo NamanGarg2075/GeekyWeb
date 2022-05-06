@@ -8,8 +8,6 @@ sidebar_label: Elements Insight
 slug: /html/intro/elements-insight
 ---
 
-# Element insight
-
 Let's break down a tag...
 
 The `<p>` tag represents a common paragraph.
