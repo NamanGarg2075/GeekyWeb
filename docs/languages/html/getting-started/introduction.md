@@ -8,10 +8,10 @@ sidebar_label: Introduction to HTML
 slug: /html
 ---
 
-# HTML - Hypertext Markup Language
-
 <!-- Import files -->
 
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
 import SocialShare from '@site/src/components/SocialShare';
 
 <details>
@@ -55,5 +55,8 @@ For this document it is important to note the difference between elements and ta
 **Elements:** `video`, `audio`, `table`, `footer`
 
 **Tags:** `<video>`, `<audio>`, `<table>`, `<footer>`, `</html>`, `</body>`
+
+<hr/>
+<DocCardList items={useCurrentSidebarCategory().items}/>
 
 <SocialShare />
