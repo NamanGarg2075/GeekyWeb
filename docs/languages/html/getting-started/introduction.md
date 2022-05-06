@@ -25,6 +25,12 @@ import SocialShare from '@site/src/components/SocialShare';
     - <a href="/docs/html/intro/creating-a-page">Creating a Page</a> <br/>
     - <a href="/docs/html/intro/breakdown-of-page">Breakdown of Page</a> <br/>
     - <a href="/docs/html/intro/remarks">Remarks</a> <br/>
+    <br/>
+    <h3>✅Doctypes</h3>
+    - <a href="/docs/html/doctypes">Introduction to Doctypes</a> <br/>
+    - <a href="/docs/html/doctypes/adding-the-doctypes">Adding the Doctype</a> <br/>
+    - <a href="/docs/html/doctypes/html-5-doctype">HTML 5 Doctype</a> <br/>
+    - <a href="/docs/html/doctypes/remarks">Remarks</a> <br/>
   </div>
 </details>
 

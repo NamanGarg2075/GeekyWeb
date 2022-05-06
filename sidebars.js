@@ -19,7 +19,6 @@ const sidebars = {
   // But you can create a sidebar manually
 
   HTML: [
-    // 'languages/html/introduction',
     {
       type: 'category',
       label: 'Getting Started with HTML',
@@ -30,10 +29,17 @@ const sidebars = {
         'languages/html/getting-started/creating-page',
         'languages/html/getting-started/breakdown-page',
         'languages/html/getting-started/remarks',
-        // 'advanced/plugins',
-        // 'advanced/routing',
-        // 'advanced/ssg',
-        // 'advanced/client',
+      ],
+    },
+
+    {
+      type: 'category',
+      label: 'Doctypes',
+      link: { type: 'doc', id: 'languages/html/doctypes/introduction' },
+      items: [
+        'languages/html/doctypes/adding-the-doctype',
+        'languages/html/doctypes/html-5-doctype',
+        'languages/html/doctypes/remarks',
       ],
     },
   ],
