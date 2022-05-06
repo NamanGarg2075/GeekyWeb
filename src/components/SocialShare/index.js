@@ -15,7 +15,7 @@ function pprrint() {
     {/* <button class="button button--primary" onClick={pprint}>Print</button> */}
 {/* <hr/> */}
 <hr/>
-<h2>React This Page</h2>
+<h2>What About GeekyWeb...?</h2>
     <InlineReactionButtons
           config={{
             alignment: 'center',  // alignment of buttons (left, center, right)
