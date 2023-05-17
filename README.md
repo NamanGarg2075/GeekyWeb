@@ -30,11 +30,11 @@ GeekyWeb was designed from the ground up to be easy to use and learn different p
 - From the root directory, run `yarn start` in the command line.
 - Open `http://localhost:3000/` in your browser.
 
-To contribute please [readme](https://geekyweb.tk/docs/legal/contributing)
+To contribute please [readme](https://geekyweb.eu.org/docs/legal/contributing)
 
 ## Contributing
 
-Please read through our [contributing guidelines](https://geekyweb.tk/docs/legal/contributing). Included are directions for opening issues, coding standards, and notes on development.
+Please read through our [contributing guidelines](https://geekyweb.eu.org/docs/legal/contributing). Included are directions for opening issues, coding standards, and notes on development.
 
 ## Creators
 
