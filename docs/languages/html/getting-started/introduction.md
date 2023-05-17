@@ -40,6 +40,10 @@ import SocialShare from '@site/src/components/SocialShare';
     <br/>
     <h3>✅Lists</h3>
     - <a href="/docs/html/lists">Introduction to Lists</a> <br/>
+    - <a href="/docs/html/lists/ordered-list">Ordered Lists</a> <br/>
+    - <a href="/docs/html/lists/unordered-list">Unordered Lists</a> <br/>
+    - <a href="/docs/html/lists/nested-list">Nested Lists</a> <br/>
+    - <a href="/docs/html/lists/remarks">Remarks</a> <br/>
   </div>
 </details>
 

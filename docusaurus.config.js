@@ -180,17 +180,21 @@ const config = {
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
+        additionalLanguages: ['kotlin'],
       },
     }),
 
-  plugins: [
+  plugins:
     [
-      require.resolve("@easyops-cn/docusaurus-search-local"),
-      {
-        hashed: true,
-      },
+      [
+        require.resolve("@easyops-cn/docusaurus-search-local"),
+        {
+          hashed: true,
+        },
+      ],
     ],
-  ],
+  plugins: ['@docusaurus/theme-live-codeblock'],
+
 
 };
 
@@ -216,6 +220,7 @@ module.exports = {
       },
     ],
   ],
+
 };
 
 module.exports = config;
