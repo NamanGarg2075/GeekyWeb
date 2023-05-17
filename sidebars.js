@@ -53,6 +53,17 @@ const sidebars = {
       ],
     },
   ],
+
+  KOTLIN: [
+    {
+      type: 'category',
+      label: 'Getting Started with Kotlin',
+      link: { type: 'doc', id: 'languages/kotlin/getting-started/introduction' },
+      items: [
+        'languages/html/getting-started/element-insight',
+      ],
+    },
+  ],
 };
 
 module.exports = sidebars;
