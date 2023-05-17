@@ -52,6 +52,17 @@ const sidebars = {
         'languages/html/headings/remarks',
       ],
     },
+    {
+      type: 'category',
+      label: 'Lists',
+      link: { type: 'doc', id: 'languages/html/lists/introduction' },
+      items: [
+        'languages/html/lists/ordered-list',
+        'languages/html/lists/unordered-list',
+        'languages/html/lists/nested-list',
+        'languages/html/lists/remarks',
+      ],
+    },
   ],
 
   KOTLIN: [

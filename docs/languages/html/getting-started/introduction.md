@@ -37,6 +37,9 @@ import SocialShare from '@site/src/components/SocialShare';
     - <a href="/docs/html/headings/using-headings">Using Headings</a> <br/>
     - <a href="/docs/html/headings/correct-structure-matters">Correct Structure Matters</a> <br/>
     - <a href="/docs/html/headings/Remarks">Remarks</a> <br/>
+    <br/>
+    <h3>✅Lists</h3>
+    - <a href="/docs/html/lists">Introduction to Lists</a> <br/>
   </div>
 </details>
 
