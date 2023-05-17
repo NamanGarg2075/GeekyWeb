@@ -79,11 +79,11 @@ const config = {
                 docId: 'languages/html/getting-started/introduction',
               },
 
-              // {
-              //   type: 'doc',
-              //   label: 'PYTHON',
-              //   docId: 'languages/python/introduction',
-              // },
+              {
+                type: 'doc',
+                label: 'KOTLIN',
+                docId: 'languages/kotlin/getting-started/introduction',
+              },
 
 
             ],
