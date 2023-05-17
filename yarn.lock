@@ -2081,6 +2081,11 @@
     mark.js "^8.11.1"
     tslib "^2.2.0"
 
+"@fontsource/balsamiq-sans@^4.5.9":
+  version "4.5.9"
+  resolved "https://registry.yarnpkg.com/@fontsource/balsamiq-sans/-/balsamiq-sans-4.5.9.tgz#7d2b34fa79b77a235fbed2064586383a2c98647f"
+  integrity sha512-tdMZlFlw6nB6LLW9g3EOnUuky1Tefn1Q2/wXK+d5oc4CzpSHeG0JEPWxGqsGnoSP+neyQDWvdJ+rNsVvX+wtcg==
+
 "@fontsource/cascadia-code@^4.2.1":
   version "4.2.1"
   resolved "https://registry.npmjs.org/@fontsource/cascadia-code/-/cascadia-code-4.2.1.tgz"

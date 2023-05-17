@@ -6,7 +6,7 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #00B0FF;
+  --ifm-color-primary: #00b0ff;
   --ifm-color-primary-dark: #009ee6;
   --ifm-color-primary-darker: #0096d9;
   --ifm-color-primary-darkest: #007bb3;
@@ -16,12 +16,12 @@
   --ifm-code-font-size: 95%;
 
   /* Styling Theme */
-  --ifm-heading-font-family: "Patrick Hand";
-  --btn-color-course:#000000;
+  --ifm-heading-font-family: "Balsamiq Sans";
+  --btn-color-course: #000000;
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
-html[data-theme='dark'] {
+html[data-theme="dark"] {
   /* --ifm-color-primary: #00B0FF; */
   /* --ifm-color-primary-dark: #21af90; */
   /* --ifm-color-primary-darker: #1fa588; */
@@ -30,16 +30,15 @@ html[data-theme='dark'] {
   /* --ifm-color-primary-lighter: #32d8b4; */
   /* --ifm-color-primary-lightest: #4fddbf; */
   --ifm-background-color: #0c141f;
-  --ifm-navbar-background-color : #020616;
-  --ifm-dropdown-background-color : #020616;
+  --ifm-navbar-background-color: #020616;
+  --ifm-dropdown-background-color: #020616;
   --ifm-card-background-color: #020616;
-  
-  --ifm-code-background : #2c333d;
+
+  --ifm-code-background: #2c333d;
   --ifm-navbar-search-input-background-color: #282c34;
   /* --ifm-navbar-search-input-icon: */
   /* --ifm-color-emphasis-200: #0a0f22; */
-  --btn-color-course:#ffffff;
-
+  --btn-color-course: #ffffff;
 }
 
 .docusaurus-highlight-code-line {
@@ -49,44 +48,41 @@ html[data-theme='dark'] {
   padding: 0 var(--ifm-pre-padding);
 }
 
-html[data-theme='dark'] .docusaurus-highlight-code-line {
+html[data-theme="dark"] .docusaurus-highlight-code-line {
   background-color: rgba(0, 0, 0, 0.3);
 }
 
-.navbar__title{
+.navbar__title {
   font-family: "Patrick Hand";
 }
 
-img{
+img {
   border-radius: 7px;
 }
 
-.footer{
+.footer {
   background-color: #020616;
 }
 
-pre{
+pre {
   font-family: "Cascadia Code";
 }
 
 #announcement {
-  background-color: var(--ifm-background-color)!important;
+  background-color: var(--ifm-background-color) !important;
 }
 
-.close{
+.close {
   color: #ebe3e3;
 }
 
-
-
-
 /* Card container  */
 .cardContainer_qNfC {
-    --ifm-link-color: var(--ifm-color-emphasis-800);
-    --ifm-link-hover-color: var(--ifm-color-emphasis-700);
-    --ifm-link-hover-decoration: none;
-    border: 1px solid var(--ifm-color-emphasis-200);
-    box-shadow: 0 1.5px 3px 0 rgb(0 0 0 / 15%);
-    transition: all var(--ifm-transition-fast) ease;
-    transition-property: border,box-shadow;
+  --ifm-link-color: var(--ifm-color-emphasis-800);
+  --ifm-link-hover-color: var(--ifm-color-emphasis-700);
+  --ifm-link-hover-decoration: none;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  box-shadow: 0 1.5px 3px 0 rgb(0 0 0 / 15%);
+  transition: all var(--ifm-transition-fast) ease;
+  transition-property: border, box-shadow;
 }

@@ -18,6 +18,7 @@
     "@docusaurus/plugin-sitemap": "^2.0.0-beta.20",
     "@docusaurus/preset-classic": "^2.0.0-beta.20",
     "@easyops-cn/docusaurus-search-local": "^0.21.4",
+    "@fontsource/balsamiq-sans": "^4.5.9",
     "@fontsource/cascadia-code": "^4.2.1",
     "@fontsource/fredoka-one": "^4.5.1",
     "@fontsource/josefin-sans": "^4.5.3",

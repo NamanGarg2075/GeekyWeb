@@ -14,7 +14,7 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'designatory',
+  organizationName: 'NamanGarg2075',
   projectName: 'GeekyWeb',
   trailingSlash: false,
 
@@ -25,12 +25,12 @@ const config = {
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/designatory/GeekyWeb/edit/main/',
+          editUrl: 'https://github.com/namangarg2075/GeekyWeb/edit/main/',
         },
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/designatory/GeekyWeb/edit/main/',
+            'https://github.com/namangarg2075/GeekyWeb/edit/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -118,7 +118,7 @@ const config = {
       announcementBar: {
         id: 'announcement',
         content:
-          'Give us a Star &#11088; on Github <a target="_blank" rel="noopener noreferrer" href="https://github.com/designatory/GeekyWeb">Star Now</a>',
+          'Give us a Star &#11088; on Github <a target="_blank" rel="noopener noreferrer" href="https://github.com/namangarg2075/GeekyWeb">Star Now</a>',
         backgroundColor: '#0c141f',
         textColor: '#ebe3e3',
         isCloseable: true,
@@ -149,7 +149,7 @@ const config = {
               },
               {
                 label: 'Twitter',
-                href: '#',
+                href: 'https://twitter.com/NamanGarg2075',
               },
             ],
           },
@@ -162,7 +162,7 @@ const config = {
               // },
               {
                 label: 'GitHub',
-                href: 'https://github.com/Designatory',
+                href: 'https://github.com/NamanGarg2075',
               },
               {
                 label: 'Dribbble',
@@ -170,7 +170,7 @@ const config = {
               },
               {
                 label: 'Linkedin',
-                href: 'https://linkedin.com/in/naman2075',
+                href: 'https://linkedin.com/in/namangarg2075',
               },
             ],
           },

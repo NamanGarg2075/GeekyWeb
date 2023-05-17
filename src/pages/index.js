@@ -10,10 +10,11 @@ import "@fontsource/josefin-sans";
 import "@fontsource/cascadia-code";
 import "@fontsource/fredoka-one";
 import "@fontsource/patrick-hand";
+import "@fontsource/balsamiq-sans";
 
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -32,7 +33,7 @@ function HomepageHeader() {
 }
 
 export default function Features() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
       title={`Home`}
