@@ -1,0 +1,17 @@
+---
+title: Introduction to Lists.
+keywords: [coding, web development, html, lists]
+sidebar_position: 1
+sidebar_label: Lists
+slug: /html/lists
+---
+
+import DocCardList from '@theme/DocCardList';
+import {useCurrentSidebarCategory} from '@docusaurus/theme-common';
+
+HTML lists are an integral part of web development, serving as a powerful tool for organizing and structuring content on web pages. Whether you need to present a collection of items, create a set of instructions, or highlight key points, HTML lists provide a flexible and intuitive way to present information. By utilizing ordered lists ```<ol>```, unordered lists ```<ul>```, list items ```<li>```, and nesting capabilities, developers can create visually appealing and well-organized content that enhances readability and user experience. In this article, we will explore the different types of HTML lists, their usage, and provide examples to demonstrate their effectiveness in creating structured and easily digestible web content.
+
+<hr/>
+<DocCardList items={useCurrentSidebarCategory().items}/>
+
+

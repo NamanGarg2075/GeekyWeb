@@ -1,0 +1,28 @@
+---
+title: Remarks.
+keywords: [coding, web development, html]
+sidebar_position: 4
+sidebar_label: Remarks
+slug: /html/lists/remarks
+---
+
+:::success Remarks
+HTML lists, such as ordered and unordered lists, are valuable for organizing information on web pages. They allow you to present items in a logical and structured manner. Whether you need to create a simple list or a nested hierarchy, HTML lists offer flexibility and readability. By using the ```<ul>```, ```<ol>```, and ```<li>``` tags, you can easily create lists that enhance the organization and presentation of your content. For example:
+
+```html
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
+```
+
+This code will generate an unordered list with three items:
+
+- First item
+- Second item
+- Third item
+
+Remember that you can also customize the appearance of your lists using CSS to match your desired style and design.
+
+:::

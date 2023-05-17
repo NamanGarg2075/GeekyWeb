@@ -1,0 +1,21 @@
+---
+title: Unordered Lists.
+keywords: [coding, web development, html, lists]
+sidebar_position: 3
+sidebar_label: Unordered Lists
+slug: /html/lists/unordered-list
+---
+
+Unordered lists are used when the order of items is not important. Similar to ordered lists, each item in an unordered list is represented by the ```<li>``` tag. However, unordered lists are wrapped within the ```<ul>``` tags. By default, unordered lists are displayed with bullet points as markers. Here's an example:
+
+```html
+<ul>
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
+```
+Output:
+- First item
+- Second item
+- Third item
