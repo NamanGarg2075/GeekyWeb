@@ -1,4 +1,3 @@
 User-agent: * 
 Disallow: /search
-Disallow: /markdown-page
-Sitemap: https://geekyweb.tk/sitemap.xml
+Sitemap: https://geekyweb.eu.org/sitemap.xml
