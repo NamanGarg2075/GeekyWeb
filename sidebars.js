@@ -71,7 +71,8 @@ const sidebars = {
       label: 'Getting Started with Kotlin',
       link: { type: 'doc', id: 'languages/kotlin/getting-started/introduction' },
       items: [
-        'languages/html/getting-started/element-insight',
+        'languages/kotlin/getting-started/hello-world-companion',
+        'languages/kotlin/getting-started/hello-world-object',
       ],
     },
   ],
