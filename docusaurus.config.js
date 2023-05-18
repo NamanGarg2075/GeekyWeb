@@ -193,8 +193,6 @@ const config = {
         },
       ],
     ],
-  plugins: ['@docusaurus/theme-live-codeblock'],
-
 
 };
 
@@ -213,7 +211,7 @@ module.exports = {
           },
         },
         customFields: {
-          image: 'img/custom-data-image.pngd',
+          image: 'img/custom-data-image.png',
           keywords: [],
           description: '',
         },

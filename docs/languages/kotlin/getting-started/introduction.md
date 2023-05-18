@@ -29,7 +29,7 @@ import SocialShare from '@site/src/components/SocialShare';
 
 All Kotlin programs start at the `main` function. Here is an example of a simple Kotlin "Hello World" program:
 
-```kotlin live
+```kotlin
 package my.program
 
 fun main(args: Array<String>) {
