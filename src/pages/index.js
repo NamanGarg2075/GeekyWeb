@@ -6,10 +6,10 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import './index.module.css';
 import HomepageFeatures from '../components/HomepageFeatures';
-import "@fontsource/josefin-sans";
+// import "@fontsource/josefin-sans";
+// import "@fontsource/fredoka-one";
+// import "@fontsource/patrick-hand";
 import "@fontsource/cascadia-code";
-import "@fontsource/fredoka-one";
-import "@fontsource/patrick-hand";
 import "@fontsource/balsamiq-sans";
 
 
