@@ -1,12 +1,11 @@
 import React from 'react';
 import Card from '../Card/Card';
-
-import styled from './Courses.module.css';
+import sytles from './Courses.module.css';
 import cardsData from '../../../docs/cards-data/cards-data';
 
-const Courses = (): JSX.Element => {
+const Courses = () => {
     return (
-        <div className={styled.cards}>
+        <div className={sytles.cards}>
             {cardsData.map((card) => (
                 <Card key={card.id} data={card} />
             ))}

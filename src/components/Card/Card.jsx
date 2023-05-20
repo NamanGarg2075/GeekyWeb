@@ -3,18 +3,7 @@ import Link from '@docusaurus/Link';
 
 import './Card.css';
 
-interface CardData {
-    imgSrc: string;
-    title: string;
-    category: string;
-    path: string;
-}
-
-interface CardProps {
-    data: CardData;
-}
-
-const Card = ({ data }: CardProps): JSX.Element => {
+const Card = ({ data }) => {
     return (
         <>
             <div className="card-container">
