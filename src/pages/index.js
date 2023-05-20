@@ -5,7 +5,7 @@ import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import styles from './index.module.css';
 import './index.module.css';
-import HomepageFeatures from '../components/HomepageFeatures';
+import HomepageFeatures from '../components/HomePageFeatures/HomepageFeatures';
 // import "@fontsource/josefin-sans";
 // import "@fontsource/fredoka-one";
 // import "@fontsource/patrick-hand";
