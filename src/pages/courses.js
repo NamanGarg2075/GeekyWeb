@@ -1,14 +1,13 @@
 import React from 'react';
 import Layout from '@theme/Layout';
-import './courses.module..css'
-import Courses from '../components/courses'
+import Courses from '../components/Courses/Courses';
 
-function introduction() {
+const introduction = () => {
   return (
     <Layout title="All Courses">
-        <Courses />
+      <Courses />
     </Layout>
-  );
+  )
 }
 
 export default introduction;
