@@ -14,7 +14,7 @@ const Card = ({ data }) => {
                     <div className="card__body">
                         <span className="tag tag-blue">{data.category}</span>
                         <h4>{data.title}</h4>
-                        {/* <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi perferendis molestiae non nemo doloribus. Doloremque, nihil! At ea atque quidem!</p> */}
+                        {/* <p>course paragraph here</p> */}
                     </div>
                     <div className="card__footer">
                         <Link
