@@ -13,13 +13,6 @@ const cardsData = [
         category: 'Mobile Development',
         path: 'kotlin',
     },
-    {
-        id: 3,
-        imgSrc: '/img/courses/python-language.png',
-        title: 'Python - General-purpose Programming Language',
-        category: 'Software Development',
-        path: 'python',
-    },
 ]
 
 export default cardsData;
