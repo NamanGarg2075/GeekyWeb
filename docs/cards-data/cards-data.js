@@ -13,6 +13,13 @@ const cardsData = [
         category: 'Mobile Development',
         path: 'kotlin',
     },
+    {
+        id: 3,
+        imgSrc: '/img/courses/placeholder.png',
+        title: 'JQuery - Write Less, Do More',
+        category: 'Web Development',
+        path: 'jquery/getting-started-with-jquery',
+    },
 ]
 
 export default cardsData;
