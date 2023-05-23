@@ -82,7 +82,7 @@ const config = {
               {
                 type: 'doc',
                 label: 'KOTLIN',
-                docId: 'languages/kotlin/getting-started/introduction',
+                docId: 'languages/kotlin/getting-started-with-kotlin',
               },
 
 
