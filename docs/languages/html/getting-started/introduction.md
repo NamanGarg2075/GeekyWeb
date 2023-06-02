@@ -47,6 +47,20 @@ import SocialShare from '@site/src/components/SocialShare';
   </div>
 </details>
 
+<!-- Ad Snippet -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1497260367342842"
+     crossorigin="anonymous"></script>
+<!-- docs-header -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-1497260367342842"
+     data-ad-slot="8295569940"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## Introduction
 
 [HTML](https://en.wikipedia.org/wiki/HTML) (**H**yper**t**ext **M**arkup **L**anguage) uses a markup system composed of elements which represent specific content. **Markup** means that with HTML you declare **what** is presented to a viewer, not **how** it is presented. Visual representations are defined by [Cascading Style Sheets (CSS)](https://en.wikipedia.org/wiki/CSS) and realized by browsers. [Still existing elements that allow for such](https://www.w3.org/TR/html5/obsolete.html#non-conforming-features), like e.g. [`font`](https://www.w3.org/wiki/HTML/Elements/font), "are entirely obsolete, and must not be used by authors".
