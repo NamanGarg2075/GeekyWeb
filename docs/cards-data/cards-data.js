@@ -15,7 +15,7 @@ const cardsData = [
     },
     {
         id: 3,
-        imgSrc: '/img/courses/placeholder.png',
+        imgSrc: '/img/courses/jquery-language.png',
         title: 'jQuery - Write Less, Do More',
         category: 'Web Development',
         path: 'jquery/getting-started-with-jquery',
