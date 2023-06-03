@@ -48,19 +48,20 @@ import SocialShare from '@site/src/components/SocialShare';
 </details>
 
 <!-- Ad Snippet -->
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1497260367342842"
-     crossorigin="anonymous"></script>
-<!-- docs-header -->
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1497260367342842" crossorigin="anonymous"></script>
 
 <ins class="adsbygoogle"
      data-ad-client="ca-pub-1497260367342842"
      data-ad-slot="8295569940"
      data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
+     data-full-width-responsive="true">
+</ins>
 
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<!-- docs-header -->
 
 ## Introduction
 
