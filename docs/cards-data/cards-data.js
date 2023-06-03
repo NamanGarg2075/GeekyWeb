@@ -11,7 +11,7 @@ const cardsData = [
         imgSrc: '/img/courses/kotlin-language.png',
         title: 'Kotlin - Modern Programming Language',
         category: 'Mobile Development',
-        path: 'kotlin',
+        path: 'kotlin/getting-started-with-kotlin',
     },
     {
         id: 3,
