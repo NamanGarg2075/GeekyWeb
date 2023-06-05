@@ -224,6 +224,17 @@ module.exports = {
     ],
   ],
 
+  // adsence ads tag
+  head: {
+    scripts: [
+      {
+        async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1497260367342842",
+        crossorigin: "anonymous",
+      },
+    ],
+  },
+
 };
 
 module.exports = config;
