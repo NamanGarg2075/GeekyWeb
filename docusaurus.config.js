@@ -44,7 +44,19 @@ const config = {
 
     ({
       metadata: [{ name: 'GeekyWeb,Geekyweb', content: 'html,css,js,javascript,python,coding,programming,go,android,web development,website,apps' }],
+      // scripts: [{ src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1497260367342842', async: true, crossorigin: 'anonymous' }],
 
+      head: [
+        // ...other head tags
+        {
+          tagName: 'script',
+          attributes: {
+            src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1497260367342842',
+            async: true,
+            crossorigin: 'anonymous',
+          },
+        },
+      ],
 
       navbar: {
         hideOnScroll: true,
@@ -197,6 +209,7 @@ const config = {
           hashed: true,
         },
       ],
+
     ],
 
 };
@@ -225,15 +238,23 @@ module.exports = {
   ],
 
   // adsence ads tag
-  head: {
-    scripts: [
-      {
-        async: true,
-        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1497260367342842",
-        crossorigin: "anonymous",
-      },
-    ],
-  },
+  // head: {
+  //   scripts: [
+  //     {
+  //       async: true,
+  //       src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1497260367342842",
+  //       crossorigin: "anonymous",
+  //     },
+  //   ],
+  // },
+
+  // scripts: [
+  //   {
+  //     src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1497260367342842",
+  //     // crossorigin="anonymous",
+  //     async: true,
+  //   },
+  // ],
 
 };
 

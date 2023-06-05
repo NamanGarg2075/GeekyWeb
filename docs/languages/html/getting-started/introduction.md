@@ -8,6 +8,10 @@ sidebar_label: Introduction to HTML
 slug: /html
 ---
 
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1497260367342842"
+     crossorigin="anonymous"></script></head>
+
 <!-- Import files -->
 
 import DocCardList from '@theme/DocCardList';
