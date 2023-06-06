@@ -238,6 +238,12 @@ module.exports = {
           keywords: [],
           description: '',
         },
+
+        // Google Analytics tag
+        gtag: {
+          trackingID: 'G-SV2ETDYHB7',
+          anonymizeIP: true,
+        },
       },
     ],
   ],
