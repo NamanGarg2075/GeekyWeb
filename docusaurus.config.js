@@ -46,7 +46,22 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+
+        // Google Analytics tag
+        gtag: {
+          trackingID: 'G-SV2ETDYHB7',
+          anonymizeIP: true,
+        },
+
+        // Website Sitemap
+        sitemap: {
+          changefreq: 'daily',
+          priority: 0.5,
+          ignorePatterns: ['/tags/**'],
+          filename: 'sitemap.xml',
+        },
       }),
+
     ],
   ],
 
@@ -237,12 +252,6 @@ module.exports = {
           image: 'img/custom-data-image.png',
           keywords: [],
           description: '',
-        },
-
-        // Google Analytics tag
-        gtag: {
-          trackingID: 'G-SV2ETDYHB7',
-          anonymizeIP: true,
         },
       },
     ],
