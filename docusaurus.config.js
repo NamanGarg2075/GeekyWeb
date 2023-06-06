@@ -256,6 +256,12 @@ module.exports = {
       },
     ],
   ],
+
+  onCreateDevServer: function ({ app }) {
+    app.get("/sitemap.xml/", function (_req, res) {
+      res.redirect(301, "/sitemap.xml");
+    });
+  },
 };
 
 module.exports = config;
