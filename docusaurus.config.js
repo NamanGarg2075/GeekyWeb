@@ -94,10 +94,17 @@ const config = {
                 label: 'KOTLIN',
                 docId: 'languages/kotlin/getting-started-with-kotlin',
               },
+
               {
                 type: 'doc',
                 label: 'JQUERY',
                 docId: 'languages/jquery/getting-started-with-jquery',
+              },
+
+              {
+                type: 'doc',
+                label: 'JAVASCRIPT',
+                docId: 'languages/javascript/getting-started-with-javascript',
               },
 
 
