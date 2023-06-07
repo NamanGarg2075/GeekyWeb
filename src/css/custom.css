@@ -86,3 +86,8 @@ pre {
   transition: all var(--ifm-transition-fast) ease;
   transition-property: border, box-shadow;
 }
+
+/* Docs text alignment */
+article {
+  text-align: left;
+}

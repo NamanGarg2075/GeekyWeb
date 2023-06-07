@@ -8,7 +8,7 @@ function InArticleAd() {
     return (
         <ins
             className="adsbygoogle"
-            style={{ display: 'block' }}
+            style={{ display: 'block', marginTop: '20px', marginBottom: '10px' }}
             data-ad-client="ca-pub-1497260367342842"
             data-ad-layout="in-article"
             data-ad-slot="1182795868"
