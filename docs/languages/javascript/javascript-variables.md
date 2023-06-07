@@ -16,6 +16,8 @@ sidebar_label: Variables
 slug: /javascript/variables
 ---
 
+import InArticleAd from '@site/src/components/Adsence/InArticleAd';
+
 Variables are what make up most of JavaScript. These variables make up things from numbers to objects, which are all over JavaScript to make one's life much easier.
 
 ## Defining a Variable
@@ -28,17 +30,7 @@ This is an example of defining variables. This variable is called a "string" bec
 
 ## Using a Variable
 
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-1497260367342842"
-     data-ad-slot="1182795868">
-</ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+<InArticleAd />
 
 ```js
 var number1 = 5;
