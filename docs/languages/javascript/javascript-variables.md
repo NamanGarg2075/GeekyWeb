@@ -28,6 +28,18 @@ This is an example of defining variables. This variable is called a "string" bec
 
 ## Using a Variable
 
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-1497260367342842"
+     data-ad-slot="1182795868">
+</ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ```js
 var number1 = 5;
 number1 = 3;
