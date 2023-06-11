@@ -11,7 +11,7 @@ const config = {
   tagline: 'Learn to C<>De with GeekyWeb',
   url: 'https://geekyweb.eu.org',
   baseUrl: '/',
-  onBrokenLinks: 'warn',
+  onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
   organizationName: 'NamanGarg2075',
