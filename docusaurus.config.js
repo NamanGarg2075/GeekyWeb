@@ -16,7 +16,7 @@ const config = {
   favicon: 'img/favicon.ico',
   organizationName: 'NamanGarg2075',
   projectName: 'GeekyWeb',
-  trailingSlash: false,
+  trailingSlash: true,
 
   // Custom Scripts
   scripts: [
