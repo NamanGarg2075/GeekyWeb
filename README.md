@@ -17,7 +17,7 @@ GeekyWeb was designed from the ground up to be easy to use and learn different p
 [![GitHub forks](https://img.shields.io/github/forks/Designatory/geekyweb)](https://github.com/Designatory/geekyweb/network)
 [![GitHub stars](https://img.shields.io/github/stars/Designatory/geekyweb)](https://github.com/Designatory/geekyweb/stargazers)
 [![GitHub license](https://img.shields.io/github/license/Designatory/geekyweb)](https://github.com/Designatory/GeekyWeb/blob/main/LICENSE)
-
+[![Netlify Status](https://api.netlify.com/api/v1/badges/eea5f7ad-0840-4df2-b5d1-2a11930b9adf/deploy-status?branch=main)](https://geekyweb.eu.org/)
 </p>
 
 ## GeekyWeb
