@@ -1,0 +1,450 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+<url>
+  <loc>https://geekyweb.eu.org/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/courses/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/getting-started-with-kotlin/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/getting-started-with-jquery/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/javascript/getting-started-with-javascript/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/intro/elements-insight/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/intro/creating-a-page/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/intro/breakdown-of-page/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/intro/remarks/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/doctypes/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/headings/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/lists/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/doctypes/adding-the-doctypes/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/doctypes/html-5-doctype/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/doctypes/remarks/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/headings/using-headings/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/headings/correct-structure-matters/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/headings/remarks/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/lists/ordered-list/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/lists/unordered-list/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/lists/nested-list/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/html/lists/remarks/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/basics-of-kotlin/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/strings/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/arrays/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/collections/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/enum/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/functions/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/vararg-parameters-in-functions/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/conditional-statements/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/loops-in-kotlin/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/ranges/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/regex/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/basic-lambdas/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/null-safety/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/class-delegation/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/class-inheritance/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/visibility-modifiers/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/generics/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/interfaces/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/singleton-objects/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/coroutunes/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/annotations/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/type-aliases/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/type-safe-builders/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/delegated-properties/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/reflection/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/extension-methods/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/dsl-building/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/idioms/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/recyclerview/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/logging/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/exceptions/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/junit/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/kotlin-android-extensions/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/kotlin-for-java-developers/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/java-8-stream-equivalents/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/kotlin-caveats/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/kotlin/configuring-kotlin-build/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/selectors/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/each-function/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/attributes/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/document-ready-event/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/events/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/dom-manipulation/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/dom-traversing/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/css-manipulation/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/element-visibility/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/append/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/prepend/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/getting-setting-width-height/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/animate-method/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/deferred-objects-and-promises/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/ajax/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/checkbox-select-all-with-automatic-chec-uncheck-on-other-checkbox-change/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/jquery/plugins/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/javascript/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/javascript/variables/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/javascript/built-in-constants/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/javascript/comments/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/javascript/console/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/javascript/datatypes/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/javascript/strings/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/javascript/dates/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://geekyweb.eu.org/docs/javascript/date-comparison/</loc>
+  <lastmod>2023-06-28T09:59:55+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
