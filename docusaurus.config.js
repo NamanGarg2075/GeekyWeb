@@ -54,12 +54,7 @@ const config = {
         },
 
         // Website Sitemap
-        sitemap: {
-          changefreq: 'daily',
-          priority: 0.5,
-          ignorePatterns: ['/tags/**'],
-          filename: 'sitemap.xml',
-        },
+        sitemap: false,
       }),
 
     ],
