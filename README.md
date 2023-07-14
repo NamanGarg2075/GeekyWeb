@@ -3,7 +3,7 @@
     <img src="https://geekyweb.eu.org/img/logo.svg" alt="Geekyweb logo" width="200" height="165"/>
   </a>
 
-</p>
+</p> 
 
 <h2 align="center">Geekyweb</h2>
 
