@@ -122,7 +122,7 @@ const config = {
           },
 
           {
-            href: 'https://github.com/Designatory/GeekyWeb',
+            href: 'https://github.com/NamanGarg2075/GeekyWeb',
             label: 'GitHub',
             position: 'right',
           },
