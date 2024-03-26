@@ -929,3 +929,5 @@ When using boolean coercion, the following values are considered **"falsy"**:
 Everything else is considered **"truthy"**.
 
 ¹ <sub>[willful violation of the ECMAScript specification](https://html.spec.whatwg.org/multipage/obsolete.html#dom-document-all)</sub>
+
+<InArticleAd />
