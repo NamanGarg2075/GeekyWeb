@@ -5,7 +5,7 @@
 
 </p>
 
-<h2 align="center"> Geekyweb</h2>
+<h2 align="center">Geekyweb</h2>
 
 <p align="center">
 GeekyWeb was designed from the ground up to be easy to use and learn different programming languages.You will well organize content on GeekyWeb so that you can learn anything from GeekyWeb in a very systematic way.
